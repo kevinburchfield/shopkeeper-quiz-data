@@ -1,5 +1,6 @@
-{
-  "blink": {
+[
+  {
+  "key": "blink",
     "id": 1,
     "img": "blink_lg.png?3",
     "dname": "Blink Dagger",
@@ -14,7 +15,8 @@
     "components": null,
     "created": false
   },
-  "overwhelming_blink": {
+  {
+	"key": "overwhelming_blink",
     "id": 600,
     "img": "overwhelming_blink_lg.png?3",
     "dname": "Overwhelming Blink",
@@ -32,7 +34,8 @@
     ],
     "created": true
   },
-  "swift_blink": {
+  {
+	"key": "swift_blink",
     "id": 603,
     "img": "swift_blink_lg.png?3",
     "dname": "Swift Blink",
@@ -50,7 +53,8 @@
     ],
     "created": true
   },
-  "arcane_blink": {
+  {
+	"key": "arcane_blink",
     "id": 604,
     "img": "arcane_blink_lg.png?3",
     "dname": "Arcane Blink",
@@ -68,7 +72,8 @@
     ],
     "created": true
   },
-  "blades_of_attack": {
+  {
+	"key": "blades_of_attack",
     "id": 2,
     "img": "blades_of_attack_lg.png?3",
     "dname": "Blades of Attack",
@@ -83,7 +88,8 @@
     "components": null,
     "created": false
   },
-  "broadsword": {
+  {
+	"key": "broadsword",
     "id": 3,
     "img": "broadsword_lg.png?3",
     "dname": "Broadsword",
@@ -98,7 +104,8 @@
     "components": null,
     "created": false
   },
-  "chainmail": {
+  {
+	"key": "chainmail",
     "id": 4,
     "img": "chainmail_lg.png?3",
     "dname": "Chainmail",
@@ -113,7 +120,8 @@
     "components": null,
     "created": false
   },
-  "claymore": {
+  {
+	"key": "claymore",
     "id": 5,
     "img": "claymore_lg.png?3",
     "dname": "Claymore",
@@ -128,7 +136,8 @@
     "components": null,
     "created": false
   },
-  "helm_of_iron_will": {
+  {
+	"key": "helm_of_iron_will",
     "id": 6,
     "img": "helm_of_iron_will_lg.png?3",
     "dname": "Helm of Iron Will",
@@ -143,7 +152,8 @@
     "components": null,
     "created": false
   },
-  "javelin": {
+  {
+	"key": "javelin",
     "id": 7,
     "img": "javelin_lg.png?3",
     "dname": "Javelin",
@@ -158,7 +168,8 @@
     "components": null,
     "created": false
   },
-  "mithril_hammer": {
+  {
+	"key": "mithril_hammer",
     "id": 8,
     "img": "mithril_hammer_lg.png?3",
     "dname": "Mithril Hammer",
@@ -173,7 +184,8 @@
     "components": null,
     "created": false
   },
-  "platemail": {
+  {
+	"key": "platemail",
     "id": 9,
     "img": "platemail_lg.png?3",
     "dname": "Platemail",
@@ -188,7 +200,8 @@
     "components": null,
     "created": false
   },
-  "quarterstaff": {
+  {
+	"key": "quarterstaff",
     "id": 10,
     "img": "quarterstaff_lg.png?3",
     "dname": "Quarterstaff",
@@ -203,7 +216,8 @@
     "components": null,
     "created": false
   },
-  "quelling_blade": {
+  {
+	"key": "quelling_blade",
     "id": 11,
     "img": "quelling_blade_lg.png?3",
     "dname": "Quelling Blade",
@@ -218,7 +232,8 @@
     "components": null,
     "created": false
   },
-  "faerie_fire": {
+  {
+	"key": "faerie_fire",
     "id": 237,
     "img": "faerie_fire_lg.png?3",
     "dname": "Faerie Fire",
@@ -233,7 +248,8 @@
     "components": null,
     "created": false
   },
-  "infused_raindrop": {
+  {
+	"key": "infused_raindrop",
     "id": 265,
     "img": "infused_raindrop_lg.png?3",
     "dname": "Infused Raindrops",
@@ -248,7 +264,8 @@
     "components": null,
     "created": false
   },
-  "wind_lace": {
+  {
+	"key": "wind_lace",
     "id": 244,
     "img": "wind_lace_lg.png?3",
     "dname": "Wind Lace",
@@ -263,7 +280,8 @@
     "components": null,
     "created": false
   },
-  "ring_of_protection": {
+  {
+	"key": "ring_of_protection",
     "id": 12,
     "img": "ring_of_protection_lg.png?3",
     "dname": "Ring of Protection",
@@ -278,7 +296,8 @@
     "components": null,
     "created": false
   },
-  "stout_shield": {
+  {
+	"key": "stout_shield",
     "id": 182,
     "img": "stout_shield_lg.png?3",
     "dname": "Stout Shield",
@@ -293,7 +312,8 @@
     "components": null,
     "created": false
   },
-  "moon_shard": {
+  {
+	"key": "moon_shard",
     "id": 247,
     "img": "moon_shard_lg.png?3",
     "dname": "Moon Shard",
@@ -311,7 +331,8 @@
     ],
     "created": true
   },
-  "gauntlets": {
+  {
+	"key": "gauntlets",
     "id": 13,
     "img": "gauntlets_lg.png?3",
     "dname": "Gauntlets of Strength",
@@ -326,7 +347,8 @@
     "components": null,
     "created": false
   },
-  "slippers": {
+  {
+	"key": "slippers",
     "id": 14,
     "img": "slippers_lg.png?3",
     "dname": "Slippers of Agility",
@@ -341,7 +363,8 @@
     "components": null,
     "created": false
   },
-  "mantle": {
+  {
+	"key": "mantle",
     "id": 15,
     "img": "mantle_lg.png?3",
     "dname": "Mantle of Intelligence",
@@ -356,7 +379,8 @@
     "components": null,
     "created": false
   },
-  "branches": {
+  {
+	"key": "branches",
     "id": 16,
     "img": "branches_lg.png?3",
     "dname": "Iron Branch",
@@ -371,7 +395,8 @@
     "components": null,
     "created": false
   },
-  "belt_of_strength": {
+  {
+	"key": "belt_of_strength",
     "id": 17,
     "img": "belt_of_strength_lg.png?3",
     "dname": "Belt of Strength",
@@ -386,7 +411,8 @@
     "components": null,
     "created": false
   },
-  "boots_of_elves": {
+  {
+	"key": "boots_of_elves",
     "id": 18,
     "img": "boots_of_elves_lg.png?3",
     "dname": "Band of Elvenskin",
@@ -401,7 +427,8 @@
     "components": null,
     "created": false
   },
-  "robe": {
+  {
+	"key": "robe",
     "id": 19,
     "img": "robe_lg.png?3",
     "dname": "Robe of the Magi",
@@ -416,7 +443,8 @@
     "components": null,
     "created": false
   },
-  "circlet": {
+  {
+	"key": "circlet",
     "id": 20,
     "img": "circlet_lg.png?3",
     "dname": "Circlet",
@@ -431,7 +459,8 @@
     "components": null,
     "created": false
   },
-  "crown": {
+  {
+	"key": "crown",
     "id": 261,
     "img": "crown_lg.png?3",
     "dname": "Crown",
@@ -446,7 +475,8 @@
     "components": null,
     "created": false
   },
-  "ogre_axe": {
+  {
+	"key": "ogre_axe",
     "id": 21,
     "img": "ogre_axe_lg.png?3",
     "dname": "Ogre Axe",
@@ -461,7 +491,8 @@
     "components": null,
     "created": false
   },
-  "blade_of_alacrity": {
+  {
+	"key": "blade_of_alacrity",
     "id": 22,
     "img": "blade_of_alacrity_lg.png?3",
     "dname": "Blade of Alacrity",
@@ -476,7 +507,8 @@
     "components": null,
     "created": false
   },
-  "staff_of_wizardry": {
+  {
+	"key": "staff_of_wizardry",
     "id": 23,
     "img": "staff_of_wizardry_lg.png?3",
     "dname": "Staff of Wizardry",
@@ -491,7 +523,8 @@
     "components": null,
     "created": false
   },
-  "ultimate_orb": {
+  {
+	"key": "ultimate_orb",
     "id": 24,
     "img": "ultimate_orb_lg.png?3",
     "dname": "Ultimate Orb",
@@ -506,7 +539,8 @@
     "components": null,
     "created": false
   },
-  "gloves": {
+  {
+	"key": "gloves",
     "id": 25,
     "img": "gloves_lg.png?3",
     "dname": "Gloves of Haste",
@@ -521,7 +555,8 @@
     "components": null,
     "created": false
   },
-  "blitz_knuckles": {
+  {
+	"key": "blitz_knuckles",
     "id": 485,
     "img": "blitz_knuckles_lg.png?3",
     "dname": "Blitz Knuckles",
@@ -536,7 +571,8 @@
     "components": null,
     "created": false
   },
-  "lifesteal": {
+  {
+	"key": "lifesteal",
     "id": 26,
     "img": "lifesteal_lg.png?3",
     "dname": "Morbid Mask",
@@ -551,7 +587,8 @@
     "components": null,
     "created": false
   },
-  "voodoo_mask": {
+  {
+	"key": "voodoo_mask",
     "id": 473,
     "img": "voodoo_mask_lg.png?3",
     "dname": "Voodoo Mask",
@@ -566,7 +603,8 @@
     "components": null,
     "created": false
   },
-  "ring_of_regen": {
+  {
+	"key": "ring_of_regen",
     "id": 27,
     "img": "ring_of_regen_lg.png?3",
     "dname": "Ring of Regen",
@@ -581,7 +619,8 @@
     "components": null,
     "created": false
   },
-  "ring_of_tarrasque": {
+  {
+	"key": "ring_of_tarrasque",
     "id": 279,
     "img": "ring_of_tarrasque_lg.png?3",
     "dname": "Ring of Tarrasque",
@@ -596,7 +635,8 @@
     "components": null,
     "created": false
   },
-  "sobi_mask": {
+  {
+	"key": "sobi_mask",
     "id": 28,
     "img": "sobi_mask_lg.png?3",
     "dname": "Sage's Mask",
@@ -611,7 +651,8 @@
     "components": null,
     "created": false
   },
-  "boots": {
+  {
+	"key": "boots",
     "id": 29,
     "img": "boots_lg.png?3",
     "dname": "Boots of Speed",
@@ -626,7 +667,8 @@
     "components": null,
     "created": false
   },
-  "gem": {
+  {
+	"key": "gem",
     "id": 30,
     "img": "gem_lg.png?3",
     "dname": "Gem of True Sight",
@@ -641,7 +683,8 @@
     "components": null,
     "created": false
   },
-  "cloak": {
+  {
+	"key": "cloak",
     "id": 31,
     "img": "cloak_lg.png?3",
     "dname": "Cloak",
@@ -656,7 +699,8 @@
     "components": null,
     "created": false
   },
-  "talisman_of_evasion": {
+  {
+	"key": "talisman_of_evasion",
     "id": 32,
     "img": "talisman_of_evasion_lg.png?3",
     "dname": "Talisman of Evasion",
@@ -671,7 +715,8 @@
     "components": null,
     "created": false
   },
-  "cheese": {
+  {
+	"key": "cheese",
     "id": 33,
     "img": "cheese_lg.png?3",
     "dname": "Cheese",
@@ -686,7 +731,8 @@
     "components": null,
     "created": false
   },
-  "magic_stick": {
+  {
+	"key": "magic_stick",
     "id": 34,
     "img": "magic_stick_lg.png?3",
     "dname": "Magic Stick",
@@ -701,7 +747,8 @@
     "components": null,
     "created": false
   },
-  "magic_wand": {
+  {
+	"key": "magic_wand",
     "id": 36,
     "img": "magic_wand_lg.png?3",
     "dname": "Magic Wand",
@@ -720,7 +767,8 @@
     ],
     "created": true
   },
-  "ghost": {
+  {
+	"key": "ghost",
     "id": 37,
     "img": "ghost_lg.png?3",
     "dname": "Ghost Scepter",
@@ -735,7 +783,8 @@
     "components": null,
     "created": false
   },
-  "clarity": {
+  {
+	"key": "clarity",
     "id": 38,
     "img": "clarity_lg.png?3",
     "dname": "Clarity",
@@ -750,7 +799,8 @@
     "components": null,
     "created": false
   },
-  "enchanted_mango": {
+  {
+	"key": "enchanted_mango",
     "id": 216,
     "img": "enchanted_mango_lg.png?3",
     "dname": "Enchanted Mango",
@@ -765,7 +815,8 @@
     "components": null,
     "created": false
   },
-  "flask": {
+  {
+	"key": "flask",
     "id": 39,
     "img": "flask_lg.png?3",
     "dname": "Healing Salve",
@@ -780,7 +831,8 @@
     "components": null,
     "created": false
   },
-  "dust": {
+  {
+	"key": "dust",
     "id": 40,
     "img": "dust_lg.png?3",
     "dname": "Dust of Appearance",
@@ -795,7 +847,8 @@
     "components": null,
     "created": false
   },
-  "bottle": {
+  {
+	"key": "bottle",
     "id": 41,
     "img": "bottle_lg.png?3",
     "dname": "Bottle",
@@ -810,7 +863,8 @@
     "components": null,
     "created": false
   },
-  "ward_observer": {
+  {
+	"key": "ward_observer",
     "id": 42,
     "img": "ward_observer_lg.png?3",
     "dname": "Observer Ward",
@@ -825,7 +879,8 @@
     "components": null,
     "created": false
   },
-  "ward_sentry": {
+  {
+	"key": "ward_sentry",
     "id": 43,
     "img": "ward_sentry_lg.png?3",
     "dname": "Sentry Ward",
@@ -840,7 +895,8 @@
     "components": null,
     "created": false
   },
-  "ward_dispenser": {
+  {
+	"key": "ward_dispenser",
     "id": 218,
     "img": "ward_dispenser_lg.png?3",
     "dname": "Observer and Sentry Wards",
@@ -858,7 +914,8 @@
     ],
     "created": true
   },
-  "tango": {
+  {
+	"key": "tango",
     "id": 44,
     "img": "tango_lg.png?3",
     "dname": "Tango",
@@ -873,7 +930,8 @@
     "components": null,
     "created": false
   },
-  "tango_single": {
+  {
+	"key": "tango_single",
     "id": 241,
     "img": "tango_single_lg.png?3",
     "dname": "Tango (Shared)",
@@ -888,7 +946,8 @@
     "components": null,
     "created": false
   },
-  "courier": {
+  {
+	"key": "courier",
     "id": 45,
     "img": "courier_lg.png?3",
     "dname": "Animal Courier",
@@ -903,7 +962,8 @@
     "components": null,
     "created": false
   },
-  "flying_courier": {
+  {
+	"key": "flying_courier",
     "id": 286,
     "img": "flying_courier_lg.png?3",
     "dname": "Flying Courier",
@@ -918,7 +978,8 @@
     "components": null,
     "created": false
   },
-  "tpscroll": {
+  {
+	"key": "tpscroll",
     "id": 46,
     "img": "tpscroll_lg.png?3",
     "dname": "Town Portal Scroll",
@@ -933,7 +994,8 @@
     "components": null,
     "created": false
   },
-  "travel_boots": {
+  {
+	"key": "travel_boots",
     "id": 48,
     "img": "travel_boots_lg.png?3",
     "dname": "Boots of Travel",
@@ -950,7 +1012,8 @@
     ],
     "created": true
   },
-  "travel_boots_2": {
+  {
+	"key": "travel_boots_2",
     "id": 220,
     "img": "travel_boots_2_lg.png?3",
     "dname": "Boots of Travel 2",
@@ -968,7 +1031,8 @@
     ],
     "created": true
   },
-  "phase_boots": {
+  {
+	"key": "phase_boots",
     "id": 50,
     "img": "phase_boots_lg.png?3",
     "dname": "Phase Boots",
@@ -987,7 +1051,8 @@
     ],
     "created": true
   },
-  "demon_edge": {
+  {
+	"key": "demon_edge",
     "id": 51,
     "img": "demon_edge_lg.png?3",
     "dname": "Demon Edge",
@@ -1002,7 +1067,8 @@
     "components": null,
     "created": false
   },
-  "eagle": {
+  {
+	"key": "eagle",
     "id": 52,
     "img": "eagle_lg.png?3",
     "dname": "Eaglesong",
@@ -1017,7 +1083,8 @@
     "components": null,
     "created": false
   },
-  "reaver": {
+  {
+	"key": "reaver",
     "id": 53,
     "img": "reaver_lg.png?3",
     "dname": "Reaver",
@@ -1032,7 +1099,8 @@
     "components": null,
     "created": false
   },
-  "relic": {
+  {
+	"key": "relic",
     "id": 54,
     "img": "relic_lg.png?3",
     "dname": "Sacred Relic",
@@ -1047,7 +1115,8 @@
     "components": null,
     "created": false
   },
-  "hyperstone": {
+  {
+	"key": "hyperstone",
     "id": 55,
     "img": "hyperstone_lg.png?3",
     "dname": "Hyperstone",
@@ -1062,7 +1131,8 @@
     "components": null,
     "created": false
   },
-  "ring_of_health": {
+  {
+	"key": "ring_of_health",
     "id": 56,
     "img": "ring_of_health_lg.png?3",
     "dname": "Ring of Health",
@@ -1077,7 +1147,8 @@
     "components": null,
     "created": false
   },
-  "void_stone": {
+  {
+	"key": "void_stone",
     "id": 57,
     "img": "void_stone_lg.png?3",
     "dname": "Void Stone",
@@ -1092,7 +1163,8 @@
     "components": null,
     "created": false
   },
-  "mystic_staff": {
+  {
+	"key": "mystic_staff",
     "id": 58,
     "img": "mystic_staff_lg.png?3",
     "dname": "Mystic Staff",
@@ -1107,7 +1179,8 @@
     "components": null,
     "created": false
   },
-  "energy_booster": {
+  {
+	"key": "energy_booster",
     "id": 59,
     "img": "energy_booster_lg.png?3",
     "dname": "Energy Booster",
@@ -1122,7 +1195,8 @@
     "components": null,
     "created": false
   },
-  "point_booster": {
+  {
+	"key": "point_booster",
     "id": 60,
     "img": "point_booster_lg.png?3",
     "dname": "Point Booster",
@@ -1137,7 +1211,8 @@
     "components": null,
     "created": false
   },
-  "vitality_booster": {
+  {
+	"key": "vitality_booster",
     "id": 61,
     "img": "vitality_booster_lg.png?3",
     "dname": "Vitality Booster",
@@ -1152,7 +1227,8 @@
     "components": null,
     "created": false
   },
-  "fluffy_hat": {
+  {
+	"key": "fluffy_hat",
     "id": 593,
     "img": "fluffy_hat_lg.png?3",
     "dname": "Fluffy Hat",
@@ -1167,7 +1243,8 @@
     "components": null,
     "created": false
   },
-  "power_treads": {
+  {
+	"key": "power_treads",
     "id": 63,
     "img": "power_treads_lg.png?3",
     "dname": "Power Treads",
@@ -1186,7 +1263,8 @@
     ],
     "created": true
   },
-  "grandmasters_glaive": {
+  {
+	"key": "grandmasters_glaive",
     "id": 655,
     "img": "grandmasters_glaive_lg.png?3",
     "dname": "Grandmaster's Glaive",
@@ -1201,7 +1279,8 @@
     "components": null,
     "created": false
   },
-  "hand_of_midas": {
+  {
+	"key": "hand_of_midas",
     "id": 65,
     "img": "hand_of_midas_lg.png?3",
     "dname": "Hand of Midas",
@@ -1218,7 +1297,8 @@
     ],
     "created": true
   },
-  "oblivion_staff": {
+  {
+	"key": "oblivion_staff",
     "id": 67,
     "img": "oblivion_staff_lg.png?3",
     "dname": "Oblivion Staff",
@@ -1237,7 +1317,8 @@
     ],
     "created": true
   },
-  "witch_blade": {
+  {
+	"key": "witch_blade",
     "id": 534,
     "img": "witch_blade_lg.png?3",
     "dname": "Witch Blade",
@@ -1256,7 +1337,8 @@
     ],
     "created": true
   },
-  "pers": {
+  {
+	"key": "pers",
     "id": 69,
     "img": "pers_lg.png?3",
     "dname": "Perseverance",
@@ -1274,7 +1356,8 @@
     ],
     "created": true
   },
-  "poor_mans_shield": {
+  {
+	"key": "poor_mans_shield",
     "id": 71,
     "img": "poor_mans_shield_lg.png?3",
     "dname": "Poor Man's Shield",
@@ -1289,7 +1372,8 @@
     "components": null,
     "created": false
   },
-  "satchel": {
+  {
+	"key": "satchel",
     "id": 731,
     "img": "satchel_lg.png?3",
     "dname": "Satchel",
@@ -1304,7 +1388,8 @@
     "components": null,
     "created": false
   },
-  "bracer": {
+  {
+	"key": "bracer",
     "id": 73,
     "img": "bracer_lg.png?3",
     "dname": "Bracer",
@@ -1322,7 +1407,8 @@
     ],
     "created": true
   },
-  "wraith_band": {
+  {
+	"key": "wraith_band",
     "id": 75,
     "img": "wraith_band_lg.png?3",
     "dname": "Wraith Band",
@@ -1340,7 +1426,8 @@
     ],
     "created": true
   },
-  "null_talisman": {
+  {
+	"key": "null_talisman",
     "id": 77,
     "img": "null_talisman_lg.png?3",
     "dname": "Null Talisman",
@@ -1358,7 +1445,8 @@
     ],
     "created": true
   },
-  "mekansm": {
+  {
+	"key": "mekansm",
     "id": 79,
     "img": "mekansm_lg.png?3",
     "dname": "Mekansm",
@@ -1376,7 +1464,8 @@
     ],
     "created": true
   },
-  "vladmir": {
+  {
+	"key": "vladmir",
     "id": 81,
     "img": "vladmir_lg.png?3",
     "dname": "Vladmir's Offering",
@@ -1396,7 +1485,8 @@
     ],
     "created": true
   },
-  "buckler": {
+  {
+	"key": "buckler",
     "id": 86,
     "img": "buckler_lg.png?3",
     "dname": "Buckler",
@@ -1413,7 +1503,8 @@
     ],
     "created": true
   },
-  "ring_of_basilius": {
+  {
+	"key": "ring_of_basilius",
     "id": 88,
     "img": "ring_of_basilius_lg.png?3",
     "dname": "Ring of Basilius",
@@ -1430,7 +1521,8 @@
     ],
     "created": true
   },
-  "holy_locket": {
+  {
+	"key": "holy_locket",
     "id": 269,
     "img": "holy_locket_lg.png?3",
     "dname": "Holy Locket",
@@ -1450,7 +1542,8 @@
     ],
     "created": true
   },
-  "pipe": {
+  {
+	"key": "pipe",
     "id": 90,
     "img": "pipe_lg.png?3",
     "dname": "Pipe of Insight",
@@ -1468,7 +1561,8 @@
     ],
     "created": true
   },
-  "urn_of_shadows": {
+  {
+	"key": "urn_of_shadows",
     "id": 92,
     "img": "urn_of_shadows_lg.png?3",
     "dname": "Urn of Shadows",
@@ -1487,7 +1581,8 @@
     ],
     "created": true
   },
-  "headdress": {
+  {
+	"key": "headdress",
     "id": 94,
     "img": "headdress_lg.png?3",
     "dname": "Headdress",
@@ -1504,7 +1599,8 @@
     ],
     "created": true
   },
-  "sheepstick": {
+  {
+	"key": "sheepstick",
     "id": 96,
     "img": "sheepstick_lg.png?3",
     "dname": "Scythe of Vyse",
@@ -1523,7 +1619,8 @@
     ],
     "created": true
   },
-  "orchid": {
+  {
+	"key": "orchid",
     "id": 98,
     "img": "orchid_lg.png?3",
     "dname": "Orchid Malevolence",
@@ -1541,7 +1638,8 @@
     ],
     "created": true
   },
-  "bloodthorn": {
+  {
+	"key": "bloodthorn",
     "id": 250,
     "img": "bloodthorn_lg.png?3",
     "dname": "Bloodthorn",
@@ -1559,7 +1657,8 @@
     ],
     "created": true
   },
-  "echo_sabre": {
+  {
+	"key": "echo_sabre",
     "id": 252,
     "img": "echo_sabre_lg.png?3",
     "dname": "Echo Sabre",
@@ -1577,7 +1676,8 @@
     ],
     "created": true
   },
-  "cyclone": {
+  {
+	"key": "cyclone",
     "id": 100,
     "img": "cyclone_lg.png?3",
     "dname": "Eul's Scepter of Divinity",
@@ -1596,7 +1696,8 @@
     ],
     "created": true
   },
-  "wind_waker": {
+  {
+	"key": "wind_waker",
     "id": 610,
     "img": "wind_waker_lg.png?3",
     "dname": "Wind Waker",
@@ -1614,7 +1715,8 @@
     ],
     "created": true
   },
-  "aether_lens": {
+  {
+	"key": "aether_lens",
     "id": 232,
     "img": "aether_lens_lg.png?3",
     "dname": "Aether Lens",
@@ -1632,7 +1734,8 @@
     ],
     "created": true
   },
-  "force_staff": {
+  {
+	"key": "force_staff",
     "id": 102,
     "img": "force_staff_lg.png?3",
     "dname": "Force Staff",
@@ -1650,7 +1753,8 @@
     ],
     "created": true
   },
-  "hurricane_pike": {
+  {
+	"key": "hurricane_pike",
     "id": 263,
     "img": "hurricane_pike_lg.png?3",
     "dname": "Hurricane Pike",
@@ -1668,7 +1772,8 @@
     ],
     "created": true
   },
-  "dagon": {
+  {
+	"key": "dagon",
     "id": 104,
     "img": "dagon_lg.png?3",
     "dname": "Dagon",
@@ -1686,7 +1791,8 @@
     ],
     "created": true
   },
-  "dagon_2": {
+  {
+	"key": "dagon_2",
     "id": 201,
     "img": "dagon_2_lg.png?3",
     "dname": "Dagon",
@@ -1704,7 +1810,8 @@
     ],
     "created": true
   },
-  "dagon_3": {
+  {
+	"key": "dagon_3",
     "id": 202,
     "img": "dagon_3_lg.png?3",
     "dname": "Dagon",
@@ -1722,7 +1829,8 @@
     ],
     "created": true
   },
-  "dagon_4": {
+  {
+	"key": "dagon_4",
     "id": 203,
     "img": "dagon_4_lg.png?3",
     "dname": "Dagon",
@@ -1740,7 +1848,8 @@
     ],
     "created": true
   },
-  "dagon_5": {
+  {
+	"key": "dagon_5",
     "id": 204,
     "img": "dagon_5_lg.png?3",
     "dname": "Dagon",
@@ -1758,7 +1867,8 @@
     ],
     "created": true
   },
-  "necronomicon": {
+  {
+	"key": "necronomicon",
     "id": 106,
     "img": "necronomicon_lg.png?3",
     "dname": "Necronomicon",
@@ -1777,7 +1887,8 @@
     ],
     "created": true
   },
-  "necronomicon_2": {
+  {
+	"key": "necronomicon_2",
     "id": 193,
     "img": "necronomicon_2_lg.png?3",
     "dname": "Necronomicon",
@@ -1795,7 +1906,8 @@
     ],
     "created": true
   },
-  "necronomicon_3": {
+  {
+	"key": "necronomicon_3",
     "id": 194,
     "img": "necronomicon_3_lg.png?3",
     "dname": "Necronomicon",
@@ -1813,7 +1925,8 @@
     ],
     "created": true
   },
-  "ultimate_scepter": {
+  {
+	"key": "ultimate_scepter",
     "id": 108,
     "img": "ultimate_scepter_lg.png?3",
     "dname": "Aghanim's Scepter",
@@ -1833,7 +1946,8 @@
     ],
     "created": true
   },
-  "ultimate_scepter_2": {
+  {
+	"key": "ultimate_scepter_2",
     "id": 271,
     "img": "ultimate_scepter_2_lg.png?3",
     "dname": "Aghanim's Blessing",
@@ -1850,7 +1964,8 @@
     ],
     "created": true
   },
-  "aghanims_shard": {
+  {
+	"key": "aghanims_shard",
     "id": 609,
     "img": "aghanims_shard_lg.png?3",
     "dname": "Aghanim's Shard",
@@ -1865,7 +1980,8 @@
     "components": null,
     "created": false
   },
-  "refresher": {
+  {
+	"key": "refresher",
     "id": 110,
     "img": "refresher_lg.png?3",
     "dname": "Refresher Orb",
@@ -1883,7 +1999,8 @@
     ],
     "created": true
   },
-  "assault": {
+  {
+	"key": "assault",
     "id": 112,
     "img": "assault_lg.png?3",
     "dname": "Assault Cuirass",
@@ -1902,7 +2019,8 @@
     ],
     "created": true
   },
-  "heart": {
+  {
+	"key": "heart",
     "id": 114,
     "img": "heart_lg.png?3",
     "dname": "Heart of Tarrasque",
@@ -1920,7 +2038,8 @@
     ],
     "created": true
   },
-  "black_king_bar": {
+  {
+	"key": "black_king_bar",
     "id": 116,
     "img": "black_king_bar_lg.png?3",
     "dname": "Black King Bar",
@@ -1938,7 +2057,8 @@
     ],
     "created": true
   },
-  "aegis": {
+  {
+	"key": "aegis",
     "id": 117,
     "img": "aegis_lg.png?3",
     "dname": "Aegis of the Immortal",
@@ -1953,7 +2073,8 @@
     "components": null,
     "created": false
   },
-  "shivas_guard": {
+  {
+	"key": "shivas_guard",
     "id": 119,
     "img": "shivas_guard_lg.png?3",
     "dname": "Shiva's Guard",
@@ -1971,7 +2092,8 @@
     ],
     "created": true
   },
-  "bloodstone": {
+  {
+	"key": "bloodstone",
     "id": 121,
     "img": "bloodstone_lg.png?3",
     "dname": "Bloodstone",
@@ -1990,7 +2112,8 @@
     ],
     "created": true
   },
-  "sphere": {
+  {
+	"key": "sphere",
     "id": 123,
     "img": "sphere_lg.png?3",
     "dname": "Linken's Sphere",
@@ -2008,7 +2131,8 @@
     ],
     "created": true
   },
-  "lotus_orb": {
+  {
+	"key": "lotus_orb",
     "id": 226,
     "img": "lotus_orb_lg.png?3",
     "dname": "Lotus Orb",
@@ -2027,7 +2151,8 @@
     ],
     "created": true
   },
-  "meteor_hammer": {
+  {
+	"key": "meteor_hammer",
     "id": 223,
     "img": "meteor_hammer_lg.png?3",
     "dname": "Meteor Hammer",
@@ -2045,7 +2170,8 @@
     ],
     "created": true
   },
-  "nullifier": {
+  {
+	"key": "nullifier",
     "id": 225,
     "img": "nullifier_lg.png?3",
     "dname": "Nullifier",
@@ -2063,7 +2189,8 @@
     ],
     "created": true
   },
-  "aeon_disk": {
+  {
+	"key": "aeon_disk",
     "id": 256,
     "img": "aeon_disk_lg.png?3",
     "dname": "Aeon Disk",
@@ -2081,7 +2208,8 @@
     ],
     "created": true
   },
-  "kaya": {
+  {
+	"key": "kaya",
     "id": 259,
     "img": "kaya_lg.png?3",
     "dname": "Kaya",
@@ -2099,7 +2227,8 @@
     ],
     "created": true
   },
-  "trident": {
+  {
+	"key": "trident",
     "id": 369,
     "img": "trident_lg.png?3",
     "dname": "Trident",
@@ -2119,7 +2248,8 @@
     ],
     "created": true
   },
-  "combo_breaker": {
+  {
+	"key": "combo_breaker",
     "id": 276,
     "img": "combo_breaker_lg.png?3",
     "dname": "DOTA_Tooltip_Ability_item_combo_breaker",
@@ -2134,7 +2264,8 @@
     "components": null,
     "created": false
   },
-  "refresher_shard": {
+  {
+	"key": "refresher_shard",
     "id": 260,
     "img": "refresher_shard_lg.png?3",
     "dname": "Refresher Shard",
@@ -2149,7 +2280,8 @@
     "components": null,
     "created": false
   },
-  "spirit_vessel": {
+  {
+	"key": "spirit_vessel",
     "id": 267,
     "img": "spirit_vessel_lg.png?3",
     "dname": "Spirit Vessel",
@@ -2167,7 +2299,8 @@
     ],
     "created": true
   },
-  "vanguard": {
+  {
+	"key": "vanguard",
     "id": 125,
     "img": "vanguard_lg.png?3",
     "dname": "Vanguard",
@@ -2185,7 +2318,8 @@
     ],
     "created": true
   },
-  "crimson_guard": {
+  {
+	"key": "crimson_guard",
     "id": 242,
     "img": "crimson_guard_lg.png?3",
     "dname": "Crimson Guard",
@@ -2203,7 +2337,8 @@
     ],
     "created": true
   },
-  "blade_mail": {
+  {
+	"key": "blade_mail",
     "id": 127,
     "img": "blade_mail_lg.png?3",
     "dname": "Blade Mail",
@@ -2221,7 +2356,8 @@
     ],
     "created": true
   },
-  "soul_booster": {
+  {
+	"key": "soul_booster",
     "id": 129,
     "img": "soul_booster_lg.png?3",
     "dname": "Soul Booster",
@@ -2240,7 +2376,8 @@
     ],
     "created": true
   },
-  "hood_of_defiance": {
+  {
+	"key": "hood_of_defiance",
     "id": 131,
     "img": "hood_of_defiance_lg.png?3",
     "dname": "Hood of Defiance",
@@ -2259,7 +2396,8 @@
     ],
     "created": true
   },
-  "eternal_shroud": {
+  {
+	"key": "eternal_shroud",
     "id": 692,
     "img": "eternal_shroud_lg.png?3",
     "dname": "Eternal Shroud",
@@ -2277,7 +2415,8 @@
     ],
     "created": true
   },
-  "rapier": {
+  {
+	"key": "rapier",
     "id": 133,
     "img": "rapier_lg.png?3",
     "dname": "Divine Rapier",
@@ -2295,7 +2434,8 @@
     ],
     "created": true
   },
-  "monkey_king_bar": {
+  {
+	"key": "monkey_king_bar",
     "id": 135,
     "img": "monkey_king_bar_lg.png?3",
     "dname": "Monkey King Bar",
@@ -2314,7 +2454,8 @@
     ],
     "created": true
   },
-  "radiance": {
+  {
+	"key": "radiance",
     "id": 137,
     "img": "radiance_lg.png?3",
     "dname": "Radiance",
@@ -2331,7 +2472,8 @@
     ],
     "created": true
   },
-  "butterfly": {
+  {
+	"key": "butterfly",
     "id": 139,
     "img": "butterfly_lg.png?3",
     "dname": "Butterfly",
@@ -2350,7 +2492,8 @@
     ],
     "created": true
   },
-  "greater_crit": {
+  {
+	"key": "greater_crit",
     "id": 141,
     "img": "greater_crit_lg.png?3",
     "dname": "Daedalus",
@@ -2368,7 +2511,8 @@
     ],
     "created": true
   },
-  "basher": {
+  {
+	"key": "basher",
     "id": 143,
     "img": "basher_lg.png?3",
     "dname": "Skull Basher",
@@ -2386,7 +2530,8 @@
     ],
     "created": true
   },
-  "bfury": {
+  {
+	"key": "bfury",
     "id": 145,
     "img": "bfury_lg.png?3",
     "dname": "Battle Fury",
@@ -2406,7 +2551,8 @@
     ],
     "created": true
   },
-  "manta": {
+  {
+	"key": "manta",
     "id": 147,
     "img": "manta_lg.png?3",
     "dname": "Manta Style",
@@ -2424,7 +2570,8 @@
     ],
     "created": true
   },
-  "lesser_crit": {
+  {
+	"key": "lesser_crit",
     "id": 149,
     "img": "lesser_crit_lg.png?3",
     "dname": "Crystalys",
@@ -2442,7 +2589,8 @@
     ],
     "created": true
   },
-  "dragon_lance": {
+  {
+	"key": "dragon_lance",
     "id": 236,
     "img": "dragon_lance_lg.png?3",
     "dname": "Dragon Lance",
@@ -2461,7 +2609,8 @@
     ],
     "created": true
   },
-  "armlet": {
+  {
+	"key": "armlet",
     "id": 151,
     "img": "armlet_lg.png?3",
     "dname": "Armlet of Mordiggian",
@@ -2480,7 +2629,8 @@
     ],
     "created": true
   },
-  "invis_sword": {
+  {
+	"key": "invis_sword",
     "id": 152,
     "img": "invis_sword_lg.png?3",
     "dname": "Shadow Blade",
@@ -2499,7 +2649,8 @@
     ],
     "created": true
   },
-  "silver_edge": {
+  {
+	"key": "silver_edge",
     "id": 249,
     "img": "silver_edge_lg.png?3",
     "dname": "Silver Edge",
@@ -2517,7 +2668,8 @@
     ],
     "created": true
   },
-  "sange_and_yasha": {
+  {
+	"key": "sange_and_yasha",
     "id": 154,
     "img": "sange_and_yasha_lg.png?3",
     "dname": "Sange and Yasha",
@@ -2535,7 +2687,8 @@
     ],
     "created": true
   },
-  "kaya_and_sange": {
+  {
+	"key": "kaya_and_sange",
     "id": 273,
     "img": "kaya_and_sange_lg.png?3",
     "dname": "Kaya and Sange",
@@ -2553,7 +2706,8 @@
     ],
     "created": true
   },
-  "yasha_and_kaya": {
+  {
+	"key": "yasha_and_kaya",
     "id": 277,
     "img": "yasha_and_kaya_lg.png?3",
     "dname": "Yasha and Kaya",
@@ -2571,7 +2725,8 @@
     ],
     "created": true
   },
-  "satanic": {
+  {
+	"key": "satanic",
     "id": 156,
     "img": "satanic_lg.png?3",
     "dname": "Satanic",
@@ -2590,7 +2745,8 @@
     ],
     "created": true
   },
-  "mjollnir": {
+  {
+	"key": "mjollnir",
     "id": 158,
     "img": "mjollnir_lg.png?3",
     "dname": "Mjollnir",
@@ -2608,7 +2764,8 @@
     ],
     "created": true
   },
-  "skadi": {
+  {
+	"key": "skadi",
     "id": 160,
     "img": "skadi_lg.png?3",
     "dname": "Eye of Skadi",
@@ -2627,7 +2784,8 @@
     ],
     "created": true
   },
-  "sange": {
+  {
+	"key": "sange",
     "id": 162,
     "img": "sange_lg.png?3",
     "dname": "Sange",
@@ -2645,7 +2803,8 @@
     ],
     "created": true
   },
-  "helm_of_the_dominator": {
+  {
+	"key": "helm_of_the_dominator",
     "id": 164,
     "img": "helm_of_the_dominator_lg.png?3",
     "dname": "Helm of the Dominator",
@@ -2663,7 +2822,8 @@
     ],
     "created": true
   },
-  "helm_of_the_dominator_2": {
+  {
+	"key": "helm_of_the_dominator_2",
     "id": 635,
     "img": "helm_of_the_dominator_2_lg.png?3",
     "dname": "Helm of the Dominator",
@@ -2681,7 +2841,8 @@
     ],
     "created": true
   },
-  "maelstrom": {
+  {
+	"key": "maelstrom",
     "id": 166,
     "img": "maelstrom_lg.png?3",
     "dname": "Maelstrom",
@@ -2699,7 +2860,8 @@
     ],
     "created": true
   },
-  "gungir": {
+  {
+	"key": "gungir",
     "id": 1466,
     "img": "gungir_lg.png?3",
     "dname": "Gleipnir",
@@ -2717,7 +2879,8 @@
     ],
     "created": true
   },
-  "desolator": {
+  {
+	"key": "desolator",
     "id": 168,
     "img": "desolator_lg.png?3",
     "dname": "Desolator",
@@ -2736,7 +2899,8 @@
     ],
     "created": true
   },
-  "yasha": {
+  {
+	"key": "yasha",
     "id": 170,
     "img": "yasha_lg.png?3",
     "dname": "Yasha",
@@ -2754,7 +2918,8 @@
     ],
     "created": true
   },
-  "mask_of_madness": {
+  {
+	"key": "mask_of_madness",
     "id": 172,
     "img": "mask_of_madness_lg.png?3",
     "dname": "Mask of Madness",
@@ -2772,7 +2937,8 @@
     ],
     "created": true
   },
-  "diffusal_blade": {
+  {
+	"key": "diffusal_blade",
     "id": 174,
     "img": "diffusal_blade_lg.png?3",
     "dname": "Diffusal Blade",
@@ -2791,7 +2957,8 @@
     ],
     "created": true
   },
-  "ethereal_blade": {
+  {
+	"key": "ethereal_blade",
     "id": 176,
     "img": "ethereal_blade_lg.png?3",
     "dname": "Ethereal Blade",
@@ -2809,7 +2976,8 @@
     ],
     "created": true
   },
-  "soul_ring": {
+  {
+	"key": "soul_ring",
     "id": 178,
     "img": "soul_ring_lg.png?3",
     "dname": "Soul Ring",
@@ -2828,7 +2996,8 @@
     ],
     "created": true
   },
-  "arcane_boots": {
+  {
+	"key": "arcane_boots",
     "id": 180,
     "img": "arcane_boots_lg.png?3",
     "dname": "Arcane Boots",
@@ -2846,7 +3015,8 @@
     ],
     "created": true
   },
-  "octarine_core": {
+  {
+	"key": "octarine_core",
     "id": 235,
     "img": "octarine_core_lg.png?3",
     "dname": "Octarine Core",
@@ -2864,7 +3034,8 @@
     ],
     "created": true
   },
-  "orb_of_venom": {
+  {
+	"key": "orb_of_venom",
     "id": 181,
     "img": "orb_of_venom_lg.png?3",
     "dname": "Orb of Venom",
@@ -2879,7 +3050,8 @@
     "components": null,
     "created": false
   },
-  "blight_stone": {
+  {
+	"key": "blight_stone",
     "id": 240,
     "img": "blight_stone_lg.png?3",
     "dname": "Blight Stone",
@@ -2894,7 +3066,8 @@
     "components": null,
     "created": false
   },
-  "orb_of_corrosion": {
+  {
+	"key": "orb_of_corrosion",
     "id": 569,
     "img": "orb_of_corrosion_lg.png?3",
     "dname": "Orb of Corrosion",
@@ -2913,7 +3086,8 @@
     ],
     "created": true
   },
-  "falcon_blade": {
+  {
+	"key": "falcon_blade",
     "id": 596,
     "img": "falcon_blade_lg.png?3",
     "dname": "Falcon Blade",
@@ -2932,7 +3106,8 @@
     ],
     "created": true
   },
-  "mage_slayer": {
+  {
+	"key": "mage_slayer",
     "id": 598,
     "img": "mage_slayer_lg.png?3",
     "dname": "Mage Slayer",
@@ -2951,7 +3126,8 @@
     ],
     "created": true
   },
-  "ancient_janggo": {
+  {
+	"key": "ancient_janggo",
     "id": 185,
     "img": "ancient_janggo_lg.png?3",
     "dname": "Drum of Endurance",
@@ -2970,7 +3146,8 @@
     ],
     "created": true
   },
-  "medallion_of_courage": {
+  {
+	"key": "medallion_of_courage",
     "id": 187,
     "img": "medallion_of_courage_lg.png?3",
     "dname": "Medallion of Courage",
@@ -2989,7 +3166,8 @@
     ],
     "created": true
   },
-  "solar_crest": {
+  {
+	"key": "solar_crest",
     "id": 229,
     "img": "solar_crest_lg.png?3",
     "dname": "Solar Crest",
@@ -3008,7 +3186,8 @@
     ],
     "created": true
   },
-  "smoke_of_deceit": {
+  {
+	"key": "smoke_of_deceit",
     "id": 188,
     "img": "smoke_of_deceit_lg.png?3",
     "dname": "Smoke of Deceit",
@@ -3023,7 +3202,8 @@
     "components": null,
     "created": false
   },
-  "tome_of_knowledge": {
+  {
+	"key": "tome_of_knowledge",
     "id": 257,
     "img": "tome_of_knowledge_lg.png?3",
     "dname": "Tome of Knowledge",
@@ -3038,7 +3218,8 @@
     "components": null,
     "created": false
   },
-  "veil_of_discord": {
+  {
+	"key": "veil_of_discord",
     "id": 190,
     "img": "veil_of_discord_lg.png?3",
     "dname": "Veil of Discord",
@@ -3056,7 +3237,8 @@
     ],
     "created": true
   },
-  "guardian_greaves": {
+  {
+	"key": "guardian_greaves",
     "id": 231,
     "img": "guardian_greaves_lg.png?3",
     "dname": "Guardian Greaves",
@@ -3075,7 +3257,8 @@
     ],
     "created": true
   },
-  "rod_of_atos": {
+  {
+	"key": "rod_of_atos",
     "id": 206,
     "img": "rod_of_atos_lg.png?3",
     "dname": "Rod of Atos",
@@ -3094,7 +3277,8 @@
     ],
     "created": true
   },
-  "iron_talon": {
+  {
+	"key": "iron_talon",
     "id": 239,
     "img": "iron_talon_lg.png?3",
     "dname": "Iron Talon",
@@ -3112,7 +3296,8 @@
     ],
     "created": true
   },
-  "abyssal_blade": {
+  {
+	"key": "abyssal_blade",
     "id": 208,
     "img": "abyssal_blade_lg.png?3",
     "dname": "Abyssal Blade",
@@ -3130,7 +3315,8 @@
     ],
     "created": true
   },
-  "heavens_halberd": {
+  {
+	"key": "heavens_halberd",
     "id": 210,
     "img": "heavens_halberd_lg.png?3",
     "dname": "Heaven's Halberd",
@@ -3148,7 +3334,8 @@
     ],
     "created": true
   },
-  "ring_of_aquila": {
+  {
+	"key": "ring_of_aquila",
     "id": 212,
     "img": "ring_of_aquila_lg.png?3",
     "dname": "Ring of Aquila",
@@ -3163,7 +3350,8 @@
     "components": null,
     "created": false
   },
-  "tranquil_boots": {
+  {
+	"key": "tranquil_boots",
     "id": 214,
     "img": "tranquil_boots_lg.png?3",
     "dname": "Tranquil Boots",
@@ -3182,7 +3370,8 @@
     ],
     "created": true
   },
-  "shadow_amulet": {
+  {
+	"key": "shadow_amulet",
     "id": 215,
     "img": "shadow_amulet_lg.png?3",
     "dname": "Shadow Amulet",
@@ -3197,7 +3386,8 @@
     "components": null,
     "created": false
   },
-  "glimmer_cape": {
+  {
+	"key": "glimmer_cape",
     "id": 254,
     "img": "glimmer_cape_lg.png?3",
     "dname": "Glimmer Cape",
@@ -3215,7 +3405,8 @@
     ],
     "created": true
   },
-  "river_painter": {
+  {
+	"key": "river_painter",
     "id": 1021,
     "img": "river_painter_lg.png?3",
     "dname": "River Vial: Chrome",
@@ -3230,7 +3421,8 @@
     "components": null,
     "created": false
   },
-  "river_painter2": {
+  {
+	"key": "river_painter2",
     "id": 1022,
     "img": "river_painter2_lg.png?3",
     "dname": "River Vial: Dry",
@@ -3245,7 +3437,8 @@
     "components": null,
     "created": false
   },
-  "river_painter3": {
+  {
+	"key": "river_painter3",
     "id": 1023,
     "img": "river_painter3_lg.png?3",
     "dname": "River Vial: Slime",
@@ -3260,7 +3453,8 @@
     "components": null,
     "created": false
   },
-  "river_painter4": {
+  {
+	"key": "river_painter4",
     "id": 1024,
     "img": "river_painter4_lg.png?3",
     "dname": "River Vial: Oil",
@@ -3275,7 +3469,8 @@
     "components": null,
     "created": false
   },
-  "river_painter5": {
+  {
+	"key": "river_painter5",
     "id": 1025,
     "img": "river_painter5_lg.png?3",
     "dname": "River Vial: Electrified",
@@ -3290,7 +3485,8 @@
     "components": null,
     "created": false
   },
-  "river_painter6": {
+  {
+	"key": "river_painter6",
     "id": 1026,
     "img": "river_painter6_lg.png?3",
     "dname": "River Vial: Potion",
@@ -3305,7 +3501,8 @@
     "components": null,
     "created": false
   },
-  "river_painter7": {
+  {
+	"key": "river_painter7",
     "id": 1027,
     "img": "river_painter7_lg.png?3",
     "dname": "River Vial: Blood",
@@ -3320,7 +3517,8 @@
     "components": null,
     "created": false
   },
-  "mutation_tombstone": {
+  {
+	"key": "mutation_tombstone",
     "id": 1028,
     "img": "mutation_tombstone_lg.png?3",
     "dname": "Tombstone",
@@ -3335,7 +3533,8 @@
     "components": null,
     "created": false
   },
-  "super_blink": {
+  {
+	"key": "super_blink",
     "id": 1029,
     "img": "super_blink_lg.png?3",
     "dname": "Super Blink Dagger",
@@ -3350,7 +3549,8 @@
     "components": null,
     "created": false
   },
-  "pocket_tower": {
+  {
+	"key": "pocket_tower",
     "id": 1030,
     "img": "pocket_tower_lg.png?3",
     "dname": "Pocket Tower",
@@ -3365,7 +3565,8 @@
     "components": null,
     "created": false
   },
-  "pocket_roshan": {
+  {
+	"key": "pocket_roshan",
     "id": 1032,
     "img": "pocket_roshan_lg.png?3",
     "dname": "Pocket Roshan",
@@ -3380,7 +3581,8 @@
     "components": null,
     "created": false
   },
-  "keen_optic": {
+  {
+	"key": "keen_optic",
     "id": 287,
     "img": "keen_optic_lg.png?3",
     "dname": "Keen Optic",
@@ -3395,7 +3597,8 @@
     "components": null,
     "created": false
   },
-  "grove_bow": {
+  {
+	"key": "grove_bow",
     "id": 288,
     "img": "grove_bow_lg.png?3",
     "dname": "Grove Bow",
@@ -3410,7 +3613,8 @@
     "components": null,
     "created": false
   },
-  "quickening_charm": {
+  {
+	"key": "quickening_charm",
     "id": 289,
     "img": "quickening_charm_lg.png?3",
     "dname": "Quickening Charm",
@@ -3425,7 +3629,8 @@
     "components": null,
     "created": false
   },
-  "philosophers_stone": {
+  {
+	"key": "philosophers_stone",
     "id": 290,
     "img": "philosophers_stone_lg.png?3",
     "dname": "Philosopher's Stone",
@@ -3440,7 +3645,8 @@
     "components": null,
     "created": false
   },
-  "force_boots": {
+  {
+	"key": "force_boots",
     "id": 291,
     "img": "force_boots_lg.png?3",
     "dname": "Force Boots",
@@ -3455,7 +3661,8 @@
     "components": null,
     "created": false
   },
-  "desolator_2": {
+  {
+	"key": "desolator_2",
     "id": 292,
     "img": "desolator_2_lg.png?3",
     "dname": "Stygian Desolator",
@@ -3470,7 +3677,8 @@
     "components": null,
     "created": false
   },
-  "phoenix_ash": {
+  {
+	"key": "phoenix_ash",
     "id": 293,
     "img": "phoenix_ash_lg.png?3",
     "dname": "Phoenix Ash",
@@ -3485,7 +3693,8 @@
     "components": null,
     "created": false
   },
-  "seer_stone": {
+  {
+	"key": "seer_stone",
     "id": 294,
     "img": "seer_stone_lg.png?3",
     "dname": "Seer Stone",
@@ -3500,7 +3709,8 @@
     "components": null,
     "created": false
   },
-  "greater_mango": {
+  {
+	"key": "greater_mango",
     "id": 295,
     "img": "greater_mango_lg.png?3",
     "dname": "Greater Mango",
@@ -3515,7 +3725,8 @@
     "components": null,
     "created": false
   },
-  "elixer": {
+  {
+	"key": "elixer",
     "id": 302,
     "img": "elixer_lg.png?3",
     "dname": "Elixir",
@@ -3530,7 +3741,8 @@
     "components": null,
     "created": false
   },
-  "vampire_fangs": {
+  {
+	"key": "vampire_fangs",
     "id": 297,
     "img": "vampire_fangs_lg.png?3",
     "dname": "Vampire Fangs",
@@ -3545,7 +3757,8 @@
     "components": null,
     "created": false
   },
-  "craggy_coat": {
+  {
+	"key": "craggy_coat",
     "id": 298,
     "img": "craggy_coat_lg.png?3",
     "dname": "Craggy Coat",
@@ -3560,7 +3773,8 @@
     "components": null,
     "created": false
   },
-  "greater_faerie_fire": {
+  {
+	"key": "greater_faerie_fire",
     "id": 299,
     "img": "greater_faerie_fire_lg.png?3",
     "dname": "Greater Faerie Fire",
@@ -3575,7 +3789,8 @@
     "components": null,
     "created": false
   },
-  "timeless_relic": {
+  {
+	"key": "timeless_relic",
     "id": 300,
     "img": "timeless_relic_lg.png?3",
     "dname": "Timeless Relic",
@@ -3590,7 +3805,8 @@
     "components": null,
     "created": false
   },
-  "mirror_shield": {
+  {
+	"key": "mirror_shield",
     "id": 301,
     "img": "mirror_shield_lg.png?3",
     "dname": "Mirror Shield",
@@ -3605,7 +3821,8 @@
     "components": null,
     "created": false
   },
-  "ironwood_tree": {
+  {
+	"key": "ironwood_tree",
     "id": 304,
     "img": "ironwood_tree_lg.png?3",
     "dname": "Ironwood Tree",
@@ -3620,7 +3837,8 @@
     "components": null,
     "created": false
   },
-  "mango_tree": {
+  {
+	"key": "mango_tree",
     "id": 328,
     "img": "mango_tree_lg.png?3",
     "dname": "Mango Tree",
@@ -3635,7 +3853,8 @@
     "components": null,
     "created": false
   },
-  "royal_jelly": {
+  {
+	"key": "royal_jelly",
     "id": 305,
     "img": "royal_jelly_lg.png?3",
     "dname": "Royal Jelly",
@@ -3650,7 +3869,8 @@
     "components": null,
     "created": false
   },
-  "pupils_gift": {
+  {
+	"key": "pupils_gift",
     "id": 306,
     "img": "pupils_gift_lg.png?3",
     "dname": "Pupil's Gift",
@@ -3665,7 +3885,8 @@
     "components": null,
     "created": false
   },
-  "tome_of_aghanim": {
+  {
+	"key": "tome_of_aghanim",
     "id": 307,
     "img": "tome_of_aghanim_lg.png?3",
     "dname": "Tome of Aghanim",
@@ -3680,7 +3901,8 @@
     "components": null,
     "created": false
   },
-  "repair_kit": {
+  {
+	"key": "repair_kit",
     "id": 308,
     "img": "repair_kit_lg.png?3",
     "dname": "Repair Kit",
@@ -3695,7 +3917,8 @@
     "components": null,
     "created": false
   },
-  "mind_breaker": {
+  {
+	"key": "mind_breaker",
     "id": 309,
     "img": "mind_breaker_lg.png?3",
     "dname": "Mind Breaker",
@@ -3710,7 +3933,8 @@
     "components": null,
     "created": false
   },
-  "third_eye": {
+  {
+	"key": "third_eye",
     "id": 310,
     "img": "third_eye_lg.png?3",
     "dname": "Third Eye",
@@ -3725,7 +3949,8 @@
     "components": null,
     "created": false
   },
-  "spell_prism": {
+  {
+	"key": "spell_prism",
     "id": 311,
     "img": "spell_prism_lg.png?3",
     "dname": "Spell Prism",
@@ -3740,7 +3965,8 @@
     "components": null,
     "created": false
   },
-  "princes_knife": {
+  {
+	"key": "princes_knife",
     "id": 325,
     "img": "princes_knife_lg.png?3",
     "dname": "Prince's Knife",
@@ -3755,7 +3981,8 @@
     "components": null,
     "created": false
   },
-  "witless_shako": {
+  {
+	"key": "witless_shako",
     "id": 330,
     "img": "witless_shako_lg.png?3",
     "dname": "Witless Shako",
@@ -3770,7 +3997,8 @@
     "components": null,
     "created": false
   },
-  "imp_claw": {
+  {
+	"key": "imp_claw",
     "id": 334,
     "img": "imp_claw_lg.png?3",
     "dname": "Imp Claw",
@@ -3785,7 +4013,8 @@
     "components": null,
     "created": false
   },
-  "flicker": {
+  {
+	"key": "flicker",
     "id": 335,
     "img": "flicker_lg.png?3",
     "dname": "Flicker",
@@ -3800,7 +4029,8 @@
     "components": null,
     "created": false
   },
-  "spy_gadget": {
+  {
+	"key": "spy_gadget",
     "id": 336,
     "img": "spy_gadget_lg.png?3",
     "dname": "Telescope",
@@ -3815,7 +4045,8 @@
     "components": null,
     "created": false
   },
-  "spider_legs": {
+  {
+	"key": "spider_legs",
     "id": 326,
     "img": "spider_legs_lg.png?3",
     "dname": "Spider Legs",
@@ -3830,7 +4061,8 @@
     "components": null,
     "created": false
   },
-  "helm_of_the_undying": {
+  {
+	"key": "helm_of_the_undying",
     "id": 327,
     "img": "helm_of_the_undying_lg.png?3",
     "dname": "Helm of the Undying",
@@ -3845,7 +4077,8 @@
     "components": null,
     "created": false
   },
-  "vambrace": {
+  {
+	"key": "vambrace",
     "id": 331,
     "img": "vambrace_lg.png?3",
     "dname": "Vambrace",
@@ -3860,7 +4093,8 @@
     "components": null,
     "created": false
   },
-  "horizon": {
+  {
+	"key": "horizon",
     "id": 312,
     "img": "horizon_lg.png?3",
     "dname": "Horizon",
@@ -3875,7 +4109,8 @@
     "components": null,
     "created": false
   },
-  "fusion_rune": {
+  {
+	"key": "fusion_rune",
     "id": 313,
     "img": "fusion_rune_lg.png?3",
     "dname": "Fusion Rune",
@@ -3890,7 +4125,8 @@
     "components": null,
     "created": false
   },
-  "ocean_heart": {
+  {
+	"key": "ocean_heart",
     "id": 354,
     "img": "ocean_heart_lg.png?3",
     "dname": "Ocean Heart",
@@ -3905,7 +4141,8 @@
     "components": null,
     "created": false
   },
-  "broom_handle": {
+  {
+	"key": "broom_handle",
     "id": 355,
     "img": "broom_handle_lg.png?3",
     "dname": "Broom Handle",
@@ -3920,7 +4157,8 @@
     "components": null,
     "created": false
   },
-  "trusty_shovel": {
+  {
+	"key": "trusty_shovel",
     "id": 356,
     "img": "trusty_shovel_lg.png?3",
     "dname": "Trusty Shovel",
@@ -3935,7 +4173,8 @@
     "components": null,
     "created": false
   },
-  "nether_shawl": {
+  {
+	"key": "nether_shawl",
     "id": 357,
     "img": "nether_shawl_lg.png?3",
     "dname": "Nether Shawl",
@@ -3950,7 +4189,8 @@
     "components": null,
     "created": false
   },
-  "dragon_scale": {
+  {
+	"key": "dragon_scale",
     "id": 358,
     "img": "dragon_scale_lg.png?3",
     "dname": "Dragon Scale",
@@ -3965,7 +4205,8 @@
     "components": null,
     "created": false
   },
-  "essence_ring": {
+  {
+	"key": "essence_ring",
     "id": 359,
     "img": "essence_ring_lg.png?3",
     "dname": "Essence Ring",
@@ -3980,7 +4221,8 @@
     "components": null,
     "created": false
   },
-  "clumsy_net": {
+  {
+	"key": "clumsy_net",
     "id": 360,
     "img": "clumsy_net_lg.png?3",
     "dname": "Clumsy Net",
@@ -3995,7 +4237,8 @@
     "components": null,
     "created": false
   },
-  "enchanted_quiver": {
+  {
+	"key": "enchanted_quiver",
     "id": 361,
     "img": "enchanted_quiver_lg.png?3",
     "dname": "Enchanted Quiver",
@@ -4010,7 +4253,8 @@
     "components": null,
     "created": false
   },
-  "ninja_gear": {
+  {
+	"key": "ninja_gear",
     "id": 362,
     "img": "ninja_gear_lg.png?3",
     "dname": "Ninja Gear",
@@ -4025,7 +4269,8 @@
     "components": null,
     "created": false
   },
-  "illusionsts_cape": {
+  {
+	"key": "illusionsts_cape",
     "id": 363,
     "img": "illusionsts_cape_lg.png?3",
     "dname": "Illusionist's Cape",
@@ -4040,7 +4285,8 @@
     "components": null,
     "created": false
   },
-  "havoc_hammer": {
+  {
+	"key": "havoc_hammer",
     "id": 364,
     "img": "havoc_hammer_lg.png?3",
     "dname": "Havoc Hammer",
@@ -4055,7 +4301,8 @@
     "components": null,
     "created": false
   },
-  "panic_button": {
+  {
+	"key": "panic_button",
     "id": 365,
     "img": "panic_button_lg.png?3",
     "dname": "Magic Lamp",
@@ -4070,7 +4317,8 @@
     "components": null,
     "created": false
   },
-  "apex": {
+  {
+	"key": "apex",
     "id": 366,
     "img": "apex_lg.png?3",
     "dname": "Apex",
@@ -4085,7 +4333,8 @@
     "components": null,
     "created": false
   },
-  "ballista": {
+  {
+	"key": "ballista",
     "id": 367,
     "img": "ballista_lg.png?3",
     "dname": "Ballista",
@@ -4100,7 +4349,8 @@
     "components": null,
     "created": false
   },
-  "woodland_striders": {
+  {
+	"key": "woodland_striders",
     "id": 368,
     "img": "woodland_striders_lg.png?3",
     "dname": "Woodland Striders",
@@ -4115,7 +4365,8 @@
     "components": null,
     "created": false
   },
-  "demonicon": {
+  {
+	"key": "demonicon",
     "id": 370,
     "img": "demonicon_lg.png?3",
     "dname": "Book of the Dead",
@@ -4130,7 +4381,8 @@
     "components": null,
     "created": false
   },
-  "fallen_sky": {
+  {
+	"key": "fallen_sky",
     "id": 371,
     "img": "fallen_sky_lg.png?3",
     "dname": "Fallen Sky",
@@ -4149,7 +4401,8 @@
     ],
     "created": true
   },
-  "pirate_hat": {
+  {
+	"key": "pirate_hat",
     "id": 372,
     "img": "pirate_hat_lg.png?3",
     "dname": "Pirate Hat",
@@ -4164,7 +4417,8 @@
     "components": null,
     "created": false
   },
-  "dimensional_doorway": {
+  {
+	"key": "dimensional_doorway",
     "id": 373,
     "img": "dimensional_doorway_lg.png?3",
     "dname": "Dimensional Doorway",
@@ -4179,7 +4433,8 @@
     "components": null,
     "created": false
   },
-  "ex_machina": {
+  {
+	"key": "ex_machina",
     "id": 374,
     "img": "ex_machina_lg.png?3",
     "dname": "Ex Machina",
@@ -4194,7 +4449,8 @@
     "components": null,
     "created": false
   },
-  "faded_broach": {
+  {
+	"key": "faded_broach",
     "id": 375,
     "img": "faded_broach_lg.png?3",
     "dname": "Faded Broach",
@@ -4209,7 +4465,8 @@
     "components": null,
     "created": false
   },
-  "paladin_sword": {
+  {
+	"key": "paladin_sword",
     "id": 376,
     "img": "paladin_sword_lg.png?3",
     "dname": "Paladin Sword",
@@ -4224,7 +4481,8 @@
     "components": null,
     "created": false
   },
-  "minotaur_horn": {
+  {
+	"key": "minotaur_horn",
     "id": 377,
     "img": "minotaur_horn_lg.png?3",
     "dname": "Minotaur Horn",
@@ -4239,7 +4497,8 @@
     "components": null,
     "created": false
   },
-  "orb_of_destruction": {
+  {
+	"key": "orb_of_destruction",
     "id": 378,
     "img": "orb_of_destruction_lg.png?3",
     "dname": "Orb of Destruction",
@@ -4254,7 +4513,8 @@
     "components": null,
     "created": false
   },
-  "the_leveller": {
+  {
+	"key": "the_leveller",
     "id": 379,
     "img": "the_leveller_lg.png?3",
     "dname": "The Leveller",
@@ -4269,7 +4529,8 @@
     "components": null,
     "created": false
   },
-  "arcane_ring": {
+  {
+	"key": "arcane_ring",
     "id": 349,
     "img": "arcane_ring_lg.png?3",
     "dname": "Arcane Ring",
@@ -4284,7 +4545,8 @@
     "components": null,
     "created": false
   },
-  "titan_sliver": {
+  {
+	"key": "titan_sliver",
     "id": 381,
     "img": "titan_sliver_lg.png?3",
     "dname": "Titan Sliver",
@@ -4299,7 +4561,8 @@
     "components": null,
     "created": false
   },
-  "chipped_vest": {
+  {
+	"key": "chipped_vest",
     "id": 565,
     "img": "chipped_vest_lg.png?3",
     "dname": "Chipped Vest",
@@ -4314,7 +4577,8 @@
     "components": null,
     "created": false
   },
-  "wizard_glass": {
+  {
+	"key": "wizard_glass",
     "id": 566,
     "img": "wizard_glass_lg.png?3",
     "dname": "Wizard Glass",
@@ -4329,7 +4593,8 @@
     "components": null,
     "created": false
   },
-  "gloves_of_travel": {
+  {
+	"key": "gloves_of_travel",
     "id": 570,
     "img": "gloves_of_travel_lg.png?3",
     "dname": "Gloves of Travel",
@@ -4344,7 +4609,8 @@
     "components": null,
     "created": false
   },
-  "elven_tunic": {
+  {
+	"key": "elven_tunic",
     "id": 573,
     "img": "elven_tunic_lg.png?3",
     "dname": "Elven Tunic",
@@ -4359,7 +4625,8 @@
     "components": null,
     "created": false
   },
-  "cloak_of_flames": {
+  {
+	"key": "cloak_of_flames",
     "id": 574,
     "img": "cloak_of_flames_lg.png?3",
     "dname": "Cloak of Flames",
@@ -4374,7 +4641,8 @@
     "components": null,
     "created": false
   },
-  "venom_gland": {
+  {
+	"key": "venom_gland",
     "id": 575,
     "img": "venom_gland_lg.png?3",
     "dname": "Venom Gland",
@@ -4389,7 +4657,8 @@
     "components": null,
     "created": false
   },
-  "trickster_cloak": {
+  {
+	"key": "trickster_cloak",
     "id": 571,
     "img": "trickster_cloak_lg.png?3",
     "dname": "Trickster Cloak",
@@ -4404,7 +4673,8 @@
     "components": null,
     "created": false
   },
-  "gladiator_helm": {
+  {
+	"key": "gladiator_helm",
     "id": 576,
     "img": "gladiator_helm_lg.png?3",
     "dname": "Gladiator Helm",
@@ -4419,7 +4689,8 @@
     "components": null,
     "created": false
   },
-  "possessed_mask": {
+  {
+	"key": "possessed_mask",
     "id": 577,
     "img": "possessed_mask_lg.png?3",
     "dname": "Possessed Mask",
@@ -4434,7 +4705,8 @@
     "components": null,
     "created": false
   },
-  "ancient_perseverance": {
+  {
+	"key": "ancient_perseverance",
     "id": 578,
     "img": "ancient_perseverance_lg.png?3",
     "dname": "Ancient Perseverance",
@@ -4449,7 +4721,8 @@
     "components": null,
     "created": false
   },
-  "star_mace": {
+  {
+	"key": "star_mace",
     "id": 637,
     "img": "star_mace_lg.png?3",
     "dname": "Star Mace",
@@ -4464,7 +4737,8 @@
     "components": null,
     "created": false
   },
-  "penta_edged_sword": {
+  {
+	"key": "penta_edged_sword",
     "id": 638,
     "img": "penta_edged_sword_lg.png?3",
     "dname": "Penta-Edged Sword",
@@ -4479,7 +4753,8 @@
     "components": null,
     "created": false
   },
-  "oakheart": {
+  {
+	"key": "oakheart",
     "id": 582,
     "img": "oakheart_lg.png?3",
     "dname": "Oakheart",
@@ -4494,7 +4769,8 @@
     "components": null,
     "created": false
   },
-  "warhammer": {
+  {
+	"key": "warhammer",
     "id": 674,
     "img": "warhammer_lg.png?3",
     "dname": "Warhammer",
@@ -4509,7 +4785,8 @@
     "components": null,
     "created": false
   },
-  "bullwhip": {
+  {
+	"key": "bullwhip",
     "id": 680,
     "img": "bullwhip_lg.png?3",
     "dname": "Bullwhip",
@@ -4524,7 +4801,8 @@
     "components": null,
     "created": false
   },
-  "psychic_headband": {
+  {
+	"key": "psychic_headband",
     "id": 675,
     "img": "psychic_headband_lg.png?3",
     "dname": "Psychic Headband",
@@ -4539,7 +4817,8 @@
     "components": null,
     "created": false
   },
-  "ceremonial_robe": {
+  {
+	"key": "ceremonial_robe",
     "id": 676,
     "img": "ceremonial_robe_lg.png?3",
     "dname": "Ceremonial Robe",
@@ -4554,7 +4833,8 @@
     "components": null,
     "created": false
   },
-  "quicksilver_amulet": {
+  {
+	"key": "quicksilver_amulet",
     "id": 686,
     "img": "quicksilver_amulet_lg.png?3",
     "dname": "Quicksilver Amulet",
@@ -4569,7 +4849,8 @@
     "components": null,
     "created": false
   },
-  "book_of_shadows": {
+  {
+	"key": "book_of_shadows",
     "id": 677,
     "img": "book_of_shadows_lg.png?3",
     "dname": "Book of Shadows",
@@ -4584,7 +4865,8 @@
     "components": null,
     "created": false
   },
-  "giants_ring": {
+  {
+	"key": "giants_ring",
     "id": 678,
     "img": "giants_ring_lg.png?3",
     "dname": "Giant's Ring",
@@ -4599,7 +4881,8 @@
     "components": null,
     "created": false
   },
-  "vengeances_shadow": {
+  {
+	"key": "vengeances_shadow",
     "id": 679,
     "img": "vengeances_shadow_lg.png?3",
     "dname": "Shadow of Vengeance",
@@ -4614,7 +4897,8 @@
     "components": null,
     "created": false
   },
-  "stormcrafter": {
+  {
+	"key": "stormcrafter",
     "id": 585,
     "img": "stormcrafter_lg.png?3",
     "dname": "Stormcrafter",
@@ -4629,7 +4913,8 @@
     "components": null,
     "created": false
   },
-  "overflowing_elixir": {
+  {
+	"key": "overflowing_elixir",
     "id": 588,
     "img": "overflowing_elixir_lg.png?3",
     "dname": "Overflowing Elixir",
@@ -4644,7 +4929,8 @@
     "components": null,
     "created": false
   },
-  "mysterious_hat": {
+  {
+	"key": "mysterious_hat",
     "id": 589,
     "img": "mysterious_hat_lg.png?3",
     "dname": "Fairy's Trinket",
@@ -4659,4 +4945,4 @@
     "components": null,
     "created": false
   }
-}
+]

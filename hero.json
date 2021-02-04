@@ -1,5 +1,6 @@
-{
-  "npc_dota_hero_antimage": {
+[
+  {
+	"Key": "npc_dota_hero_antimage",
     "Model": "models/heroes/antimage/antimage.vmdl",
     "SoundSet": "Hero_Antimage",
     "IdleExpression": "scenes/antimage/antimage_exp_idle_01.vcd",
@@ -204,7 +205,8 @@
       }
     }
   },
-  "npc_dota_hero_axe": {
+  {
+	"Key": "npc_dota_hero_axe",
     "Model": "models/heroes/axe/axe.vmdl",
     "SoundSet": "Hero_Axe",
     "PickSound": "axe_axe_spawn_01",
@@ -411,7 +413,8 @@
       }
     }
   },
-  "npc_dota_hero_bane": {
+  {
+	"Key": "npc_dota_hero_bane",
     "Model": "models/heroes/bane/bane.vmdl",
     "IdleExpression": "scenes/bane/bane_exp_idle_01.vcd",
     "SoundSet": "Hero_Bane",
@@ -605,7 +608,8 @@
       }
     }
   },
-  "npc_dota_hero_bloodseeker": {
+  {
+	"Key": "npc_dota_hero_bloodseeker",
     "Model": "models/heroes/blood_seeker/blood_seeker.vmdl",
     "IdleExpression": "scenes/bloodseeker/bloodseeker_exp_idle_01.vcd",
     "SoundSet": "Hero_Bloodseeker",
@@ -829,7 +833,8 @@
       }
     }
   },
-  "npc_dota_hero_crystal_maiden": {
+  {
+	"Key": "npc_dota_hero_crystal_maiden",
     "Model": "models/heroes/crystal_maiden/crystal_maiden.vmdl",
     "IdleExpression": "scenes/crystalmaiden/crystalmaiden_exp_idle_05.vcd",
     "SoundSet": "hero_Crystal",
@@ -1019,7 +1024,8 @@
       }
     }
   },
-  "npc_dota_hero_drow_ranger": {
+  {
+	"Key": "npc_dota_hero_drow_ranger",
     "Model": "models/heroes/drow/drow_base.vmdl",
     "IdleExpression": "scenes/drowranger/drowranger_exp_idle_01.vcd",
     "SoundSet": "Hero_DrowRanger",
@@ -1235,7 +1241,8 @@
       }
     }
   },
-  "npc_dota_hero_earthshaker": {
+  {
+	"Key": "npc_dota_hero_earthshaker",
     "Model": "models/heroes/earthshaker/earthshaker.vmdl",
     "IdleExpression": "scenes/earthshaker/earthshaker_exp_idle_01.vcd",
     "SoundSet": "Hero_Earthshaker",
@@ -1428,7 +1435,8 @@
       "HeroType": "DOTA_BOT_STUN_SUPPORT"
     }
   },
-  "npc_dota_hero_juggernaut": {
+  {
+	"Key": "npc_dota_hero_juggernaut",
     "Model": "models/heroes/juggernaut/juggernaut.vmdl",
     "SoundSet": "Hero_Juggernaut",
     "PickSound": "juggernaut_jug_spawn_03",
@@ -1667,7 +1675,8 @@
       "HeroType": "DOTA_BOT_GANKER | DOTA_BOT_SEMI_CARRY"
     }
   },
-  "npc_dota_hero_mirana": {
+  {
+	"Key": "npc_dota_hero_mirana",
     "Model": "models/heroes/mirana/mirana.vmdl",
     "IdleExpression": "scenes/mirana/mirana_exp_idle_01.vcd",
     "SoundSet": "Hero_Mirana",
@@ -1883,7 +1892,8 @@
       }
     }
   },
-  "npc_dota_hero_nevermore": {
+  {
+	"Key": "npc_dota_hero_nevermore",
     "Model": "models/heroes/shadow_fiend/shadow_fiend.vmdl",
     "IdleExpression": "scenes/nevermore/nevermore_exp_idle_01.vcd",
     "SoundSet": "Hero_Nevermore",
@@ -2107,7 +2117,8 @@
       }
     }
   },
-  "npc_dota_hero_morphling": {
+  {
+	"Key": "npc_dota_hero_morphling",
     "Model": "models/heroes/morphling/morphling.vmdl",
     "SoundSet": "Hero_Morphling",
     "PickSound": "morphling_mrph_spawn_01",
@@ -2254,7 +2265,8 @@
       }
     }
   },
-  "npc_dota_hero_phantom_lancer": {
+  {
+	"Key": "npc_dota_hero_phantom_lancer",
     "Model": "models/heroes/phantom_lancer/phantom_lancer.vmdl",
     "SoundSet": "Hero_PhantomLancer",
     "Enabled": "1",
@@ -2389,7 +2401,8 @@
       }
     }
   },
-  "npc_dota_hero_puck": {
+  {
+	"Key": "npc_dota_hero_puck",
     "Model": "models/heroes/puck/puck.vmdl",
     "IdleExpression": "scenes/puck/puck_exp_idle_01.vcd",
     "SoundSet": "Hero_Puck",
@@ -2524,7 +2537,8 @@
       }
     }
   },
-  "npc_dota_hero_pudge": {
+  {
+	"Key": "npc_dota_hero_pudge",
     "Model": "models/heroes/pudge/pudge.vmdl",
     "IdleExpression": "scenes/pudge/pudge_exp_idle_01.vcd",
     "SoundSet": "Hero_Pudge",
@@ -2813,7 +2827,8 @@
       }
     }
   },
-  "npc_dota_hero_razor": {
+  {
+	"Key": "npc_dota_hero_razor",
     "Model": "models/heroes/razor/razor.vmdl",
     "IdleExpression": "scenes/razor/razor_exp_idle_01.vcd",
     "PickSound": "razor_raz_spawn_01",
@@ -3041,7 +3056,8 @@
       "HeroType": "DOTA_BOT_HARD_CARRY"
     }
   },
-  "npc_dota_hero_sand_king": {
+  {
+	"Key": "npc_dota_hero_sand_king",
     "Model": "models/heroes/sand_king/sand_king.vmdl",
     "SoundSet": "Hero_SandKing",
     "PickSound": "sandking_skg_spawn_02",
@@ -3235,7 +3251,8 @@
       }
     }
   },
-  "npc_dota_hero_storm_spirit": {
+  {
+	"Key": "npc_dota_hero_storm_spirit",
     "Model": "models/heroes/storm_spirit/storm_spirit.vmdl",
     "IdleExpression": "scenes/stormspirit/stormspirit_exp_idle_01.vcd",
     "SoundSet": "Hero_StormSpirit",
@@ -3363,7 +3380,8 @@
       }
     }
   },
-  "npc_dota_hero_sven": {
+  {
+	"Key": "npc_dota_hero_sven",
     "Model": "models/heroes/sven/sven.vmdl",
     "SoundSet": "Hero_Sven",
     "PickSound": "sven_sven_spawn_04",
@@ -3571,7 +3589,8 @@
       "HeroType": "DOTA_BOT_TANK | DOTA_BOT_SEMI_CARRY | DOTA_BOT_STUN_SUPPORT"
     }
   },
-  "npc_dota_hero_tiny": {
+  {
+	"Key": "npc_dota_hero_tiny",
     "Model": "models/heroes/tiny/tiny_01/tiny_01.vmdl",
     "Model1": "models/heroes/tiny/tiny_02/tiny_02.vmdl",
     "Model2": "models/heroes/tiny/tiny_03/tiny_03.vmdl",
@@ -3778,7 +3797,8 @@
       "HeroType": "DOTA_BOT_GANKER | DOTA_BOT_TANK | DOTA_BOT_STUN_SUPPORT"
     }
   },
-  "npc_dota_hero_vengefulspirit": {
+  {
+	"Key": "npc_dota_hero_vengefulspirit",
     "Model": "models/heroes/vengeful/vengeful.vmdl",
     "IdleExpression": "scenes/vengefulspirit/vengefulspirit_exp_idle_01.vcd",
     "SoundSet": "Hero_VengefulSpirit",
@@ -3969,7 +3989,8 @@
       "HeroType": "DOTA_BOT_GANKER | DOTA_BOT_STUN_SUPPORT"
     }
   },
-  "npc_dota_hero_windrunner": {
+  {
+	"Key": "npc_dota_hero_windrunner",
     "Model": "models/heroes/windrunner/windrunner.vmdl",
     "IdleExpression": "scenes/windrunner/windrunner_exp_idle_01.vcd",
     "SoundSet": "Hero_Windrunner",
@@ -4167,7 +4188,8 @@
       "HeroType": "DOTA_BOT_GANKER | DOTA_BOT_STUN_SUPPORT"
     }
   },
-  "npc_dota_hero_zuus": {
+  {
+	"Key": "npc_dota_hero_zuus",
     "Model" : "models/heroes/zeus/zeus.vmdl",
     "ModelScale": "1.0",
     "VersusScale": "0.85",
@@ -4374,7 +4396,8 @@
       "HeroType": "DOTA_BOT_GANKER | DOTA_BOT_NUKER"
     }
   },
-  "npc_dota_hero_kunkka": {
+  {
+	"Key": "npc_dota_hero_kunkka",
     "Model": "models/heroes/kunkka/kunkka.vmdl",
     "IdleExpression": "scenes/kunkka/kunkka_exp_idle_01.vcd",
     "SoundSet": "Hero_Kunkka",
@@ -4591,7 +4614,8 @@
       "HeroType": "DOTA_BOT_TANK | DOTA_BOT_SEMI_CARRY | DOTA_BOT_PUSH_SUPPORT"
     }
   },
-  "npc_dota_hero_lina": {
+  {
+	"Key": "npc_dota_hero_lina",
     "Model": "models/heroes/lina/lina.vmdl",
     "IdleExpression": "scenes/lina/lina_exp_idle_01.vcd",
     "SoundSet": "Hero_Lina",
@@ -4781,7 +4805,8 @@
       "HeroType": "DOTA_BOT_GANKER | DOTA_BOT_NUKER"
     }
   },
-  "npc_dota_hero_lich": {
+  {
+	"Key": "npc_dota_hero_lich",
     "Model": "models/heroes/lich/lich.vmdl",
     "SoundSet": "Hero_Lich",
     "IdleSoundLoop": "Hero_Lich.IdleLoop",
@@ -4983,7 +5008,8 @@
       }
     }
   },
-  "npc_dota_hero_lion": {
+  {
+	"Key": "npc_dota_hero_lion",
     "Model": "models/heroes/lion/lion.vmdl",
     "IdleExpression": "scenes/lion/lion_exp_idle_01.vcd",
     "SoundSet": "Hero_Lion",
@@ -5186,7 +5212,8 @@
       }
     }
   },
-  "npc_dota_hero_shadow_shaman": {
+  {
+	"Key": "npc_dota_hero_shadow_shaman",
     "Model": "models/heroes/shadowshaman/shadowshaman.vmdl",
     "IdleExpression": "scenes/shadowshaman/shadowshaman_exp_idle_01.vcd",
     "SoundSet": "Hero_ShadowShaman",
@@ -5401,7 +5428,8 @@
       }
     }
   },
-  "npc_dota_hero_slardar": {
+  {
+	"Key": "npc_dota_hero_slardar",
     "Model": "models/heroes/slardar/slardar.vmdl",
     "IdleExpression": "scenes/default_idle.vcd",
     "SoundSet": "Hero_Slardar",
@@ -5541,7 +5569,8 @@
       }
     }
   },
-  "npc_dota_hero_tidehunter": {
+  {
+	"Key": "npc_dota_hero_tidehunter",
     "Model": "models/heroes/tidehunter/tidehunter.vmdl",
     "IdleExpression": "scenes/tidehunter/tidehunter_exp_idle_01.vcd",
     "SoundSet": "Hero_Tidehunter",
@@ -5752,7 +5781,8 @@
       "HeroType": "DOTA_BOT_TANK | DOTA_BOT_STUN_SUPPORT"
     }
   },
-  "npc_dota_hero_witch_doctor": {
+  {
+	"Key": "npc_dota_hero_witch_doctor",
     "Model": "models/heroes/witchdoctor/witchdoctor.vmdl",
     "IdleExpression": "scenes/witchdoctor/witchdoctor_exp_idle_01.vcd",
     "SoundSet": "Hero_WitchDoctor",
@@ -5970,7 +6000,8 @@
       }
     }
   },
-  "npc_dota_hero_riki": {
+  {
+	"Key": "npc_dota_hero_riki",
     "Model": "models/heroes/rikimaru/rikimaru.vmdl",
     "IdleExpression": "scenes/riki/riki_exp_idle_01.vcd",
     "SoundSet": "Hero_Riki",
@@ -6192,7 +6223,8 @@
       }
     }
   },
-  "npc_dota_hero_enigma": {
+  {
+	"Key": "npc_dota_hero_enigma",
     "Model": "models/heroes/enigma/enigma.vmdl",
     "SoundSet": "Hero_Enigma",
     "IdleSoundLoop": "Hero_Enigma.IdleLoop",
@@ -6338,7 +6370,8 @@
       }
     }
   },
-  "npc_dota_hero_tinker": {
+  {
+	"Key": "npc_dota_hero_tinker",
     "Model": "models/heroes/tinker/tinker.vmdl",
     "SoundSet": "Hero_Tinker",
     "Enabled": "1",
@@ -6485,7 +6518,8 @@
       }
     }
   },
-  "npc_dota_hero_sniper": {
+  {
+	"Key": "npc_dota_hero_sniper",
     "Model": "models/heroes/sniper/sniper.vmdl",
     "IdleExpression": "scenes/sniper/sniper_exp_idle_01.vcd",
     "SoundSet": "Hero_Sniper",
@@ -6697,7 +6731,8 @@
       "HeroType": "DOTA_BOT_HARD_CARRY"
     }
   },
-  "npc_dota_hero_necrolyte": {
+  {
+	"Key": "npc_dota_hero_necrolyte",
     "Model": "models/heroes/necrolyte/necrolyte.vmdl",
     "IdleExpression": "scenes/necrolyte/necrolyte_exp_idle_01.vcd",
     "SoundSet": "Hero_Necrolyte",
@@ -6907,7 +6942,8 @@
       }
     }
   },
-  "npc_dota_hero_warlock": {
+  {
+	"Key": "npc_dota_hero_warlock",
     "Model": "models/heroes/warlock/warlock.vmdl",
     "SoundSet": "Hero_Warlock",
     "Enabled": "1",
@@ -7132,7 +7168,8 @@
       }
     }
   },
-  "npc_dota_hero_beastmaster": {
+  {
+	"Key": "npc_dota_hero_beastmaster",
     "Model": "models/heroes/beastmaster/beastmaster.vmdl",
     "IdleExpression": "scenes/beastmaster/beastmaster_exp_idle_01.vcd",
     "SoundSet": "Hero_Beastmaster",
@@ -7300,7 +7337,8 @@
       }
     }
   },
-  "npc_dota_hero_queenofpain": {
+  {
+	"Key": "npc_dota_hero_queenofpain",
     "Model": "models/heroes/queenofpain/queenofpain.vmdl",
     "SoundSet": "Hero_QueenOfPain",
     "Enabled": "1",
@@ -7438,7 +7476,8 @@
       }
     }
   },
-  "npc_dota_hero_venomancer": {
+  {
+	"Key": "npc_dota_hero_venomancer",
     "Model": "models/heroes/venomancer/venomancer.vmdl",
     "IdleExpression": "scenes/venomancer/venomancer_exp_idle_01.vcd",
     "SoundSet": "Hero_Venomancer",
@@ -7589,7 +7628,8 @@
       }
     }
   },
-  "npc_dota_hero_faceless_void": {
+  {
+	"Key": "npc_dota_hero_faceless_void",
     "Model": "models/heroes/faceless_void/faceless_void.vmdl",
     "IdleExpression": "scenes/faceless_void/faceless_void_exp_idle_01.vcd",
     "SoundSet": "Hero_FacelessVoid",
@@ -7721,7 +7761,8 @@
       }
     }
   },
-  "npc_dota_hero_skeleton_king": {
+  {
+	"Key": "npc_dota_hero_skeleton_king",
     "Model": "models/heroes/wraith_king/wraith_king.vmdl",
     "IdleExpression": "scenes/skeleton_king/skeleton_king_exp_idle_01.vcd",
     "SoundSet": "Hero_SkeletonKing",
@@ -7958,7 +7999,8 @@
       }
     }
   },
-  "npc_dota_hero_death_prophet": {
+  {
+	"Key": "npc_dota_hero_death_prophet",
     "Model": "models/heroes/death_prophet/death_prophet.vmdl",
     "SoundSet": "Hero_DeathProphet",
     "IdleSoundLoop": "Hero_DeathProphet.IdleLoop",
@@ -8183,7 +8225,8 @@
       }
     }
   },
-  "npc_dota_hero_phantom_assassin": {
+  {
+	"Key": "npc_dota_hero_phantom_assassin",
     "Model": "models/heroes/phantom_assassin/phantom_assassin.vmdl",
     "IdleExpression": "scenes/phantom_assassin/phantom_assassin_exp_idle_01.vcd",
     "SoundSet": "Hero_PhantomAssassin",
@@ -8392,7 +8435,8 @@
       }
     }
   },
-  "npc_dota_hero_pugna": {
+  {
+	"Key": "npc_dota_hero_pugna",
     "Model": "models/heroes/pugna/pugna.vmdl",
     "IdleExpression": "scenes/pugna/pugna_exp_idle_01.vcd",
     "SoundSet": "Hero_Pugna",
@@ -8554,7 +8598,8 @@
       }
     }
   },
-  "npc_dota_hero_templar_assassin": {
+  {
+	"Key": "npc_dota_hero_templar_assassin",
     "Model": "models/heroes/lanaya/lanaya.vmdl",
     "IdleExpression": "scenes/templar_assassin/templar_assassin_exp_idle_01.vcd",
     "NameAliases": "ta",
@@ -8693,7 +8738,8 @@
       }
     }
   },
-  "npc_dota_hero_viper": {
+  {
+	"Key": "npc_dota_hero_viper",
     "Model": "models/heroes/viper/viper.vmdl",
     "IdleExpression": "scenes/viper/viper_exp_idle_01.vcd",
     "SoundSet": "Hero_Viper",
@@ -8892,7 +8938,8 @@
       }
     }
   },
-  "npc_dota_hero_luna": {
+  {
+	"Key": "npc_dota_hero_luna",
     "Model": "models/heroes/luna/luna.vmdl",
     "IdleExpression": "scenes/luna/luna_exp_idle_01.vcd",
     "SoundSet": "Hero_Luna",
@@ -9107,7 +9154,8 @@
       }
     }
   },
-  "npc_dota_hero_dragon_knight": {
+  {
+	"Key": "npc_dota_hero_dragon_knight",
     "Model": "models/heroes/dragon_knight/dragon_knight.vmdl",
     "SoundSet": "Hero_DragonKnight",
     "Enabled": "1",
@@ -9327,7 +9375,8 @@
       }
     }
   },
-  "npc_dota_hero_dazzle": {
+  {
+	"Key": "npc_dota_hero_dazzle",
     "Model": "models/heroes/dazzle/dazzle.vmdl",
     "IdleExpression": "scenes/dazzle/dazzle_exp_idle_01.vcd",
     "SoundSet": "Hero_Dazzle",
@@ -9532,7 +9581,8 @@
       }
     }
   },
-  "npc_dota_hero_rattletrap": {
+  {
+	"Key": "npc_dota_hero_rattletrap",
     "Model": "models/heroes/rattletrap/rattletrap.vmdl",
     "SoundSet": "Hero_Rattletrap",
     "Enabled": "1",
@@ -9673,7 +9723,8 @@
       }
     }
   },
-  "npc_dota_hero_leshrac": {
+  {
+	"Key": "npc_dota_hero_leshrac",
     "Model": "models/heroes/leshrac/leshrac.vmdl",
     "SoundSet": "Hero_Leshrac",
     "Enabled": "1",
@@ -9810,7 +9861,8 @@
       }
     }
   },
-  "npc_dota_hero_furion": {
+  {
+	"Key": "npc_dota_hero_furion",
     "Model": "models/heroes/furion/furion.vmdl",
     "IdleExpression": "scenes/furion/furion_exp_idle_01.vcd",
     "SoundSet": "Hero_Furion",
@@ -9966,7 +10018,8 @@
       }
     }
   },
-  "npc_dota_hero_life_stealer": {
+  {
+	"Key": "npc_dota_hero_life_stealer",
     "Model": "models/heroes/life_stealer/life_stealer.vmdl",
     "IdleExpression": "scenes/life_stealer/life_stealer_exp_idle_01.vcd",
     "SoundSet": "Hero_LifeStealer",
@@ -10112,7 +10165,8 @@
       }
     }
   },
-  "npc_dota_hero_dark_seer": {
+  {
+	"Key": "npc_dota_hero_dark_seer",
     "Model": "models/heroes/dark_seer/dark_seer.vmdl",
     "IdleExpression": "scenes/dark_seer/dark_seer_exp_idle_01.vcd",
     "SoundSet": "Hero_DarkSeer",
@@ -10253,7 +10307,8 @@
       }
     }
   },
-  "npc_dota_hero_clinkz": {
+  {
+	"Key": "npc_dota_hero_clinkz",
     "Model": "models/heroes/clinkz/clinkz.vmdl",
     "IdleExpression": "scenes/clinkz/clinkz_exp_idle_01.vcd",
     "SoundSet": "Hero_Clinkz",
@@ -10412,7 +10467,8 @@
       }
     }
   },
-  "npc_dota_hero_omniknight": {
+  {
+	"Key": "npc_dota_hero_omniknight",
     "Model": "models/heroes/omniknight/omniknight.vmdl",
     "IdleExpression": "scenes/omniknight/omniknight_exp_idle_01.vcd",
     "SoundSet": "Hero_Omniknight",
@@ -10614,7 +10670,8 @@
       }
     }
   },
-  "npc_dota_hero_enchantress": {
+  {
+	"Key": "npc_dota_hero_enchantress",
     "Model": "models/heroes/enchantress/enchantress.vmdl",
     "IdleExpression": "scenes/enchantress/enchantress_exp_idle_01.vcd",
     "SoundSet": "Hero_Enchantress",
@@ -10751,7 +10808,8 @@
       }
     }
   },
-  "npc_dota_hero_huskar": {
+  {
+	"Key": "npc_dota_hero_huskar",
     "Model": "models/heroes/huskar/huskar.vmdl",
     "IdleExpression": "scenes/huskar/huskar_exp_idle_01.vcd",
     "SoundSet": "Hero_Huskar",
@@ -10921,7 +10979,8 @@
       }
     }
   },
-  "npc_dota_hero_night_stalker": {
+  {
+	"Key": "npc_dota_hero_night_stalker",
     "Model": "models/heroes/nightstalker/nightstalker.vmdl",
     "Model1": "models/heroes/nightstalker/nightstalker_night.vmdl",
     "SoundSet": "Hero_NightStalker",
@@ -11067,7 +11126,8 @@
       }
     }
   },
-  "npc_dota_hero_broodmother": {
+  {
+	"Key": "npc_dota_hero_broodmother",
     "Model": "models/heroes/broodmother/broodmother.vmdl",
     "IdleExpression": "scenes/broodmother/broodmother_exp_idle_01.vcd",
     "SoundSet": "Hero_Broodmother",
@@ -11213,7 +11273,8 @@
       }
     }
   },
-  "npc_dota_hero_bounty_hunter": {
+  {
+	"Key": "npc_dota_hero_bounty_hunter",
     "Model": "models/heroes/bounty_hunter/bounty_hunter.vmdl",
     "IdleExpression": "scenes/bounty_hunter/bounty_hunter_exp_idle_01.vcd",
     "SoundSet": "Hero_BountyHunter",
@@ -11426,7 +11487,8 @@
       }
     }
   },
-  "npc_dota_hero_weaver": {
+  {
+	"Key": "npc_dota_hero_weaver",
     "Model": "models/heroes/weaver/weaver.vmdl",
     "SoundSet": "Hero_Weaver",
     "Enabled": "1",
@@ -11566,7 +11628,8 @@
       }
     }
   },
-  "npc_dota_hero_jakiro": {
+  {
+	"Key": "npc_dota_hero_jakiro",
     "Model": "models/heroes/jakiro/jakiro.vmdl",
     "IdleExpression": "scenes/jakiro/jakiro_exp_idle_01.vcd",
     "SoundSet": "Hero_Jakiro",
@@ -11748,7 +11811,8 @@
       }
     }
   },
-  "npc_dota_hero_batrider": {
+  {
+	"Key": "npc_dota_hero_batrider",
     "Model": "models/heroes/batrider/batrider.vmdl",
     "IdleExpression": "scenes/batrider/batrider_exp_idle_01.vcd",
     "SoundSet": "Hero_Batrider",
@@ -11877,7 +11941,8 @@
       }
     }
   },
-  "npc_dota_hero_chen": {
+  {
+	"Key": "npc_dota_hero_chen",
     "Model": "models/heroes/chen/chen.vmdl",
     "SoundSet": "Hero_Chen",
     "Enabled": "1",
@@ -12025,7 +12090,8 @@
       }
     }
   },
-  "npc_dota_hero_spectre": {
+  {
+	"Key": "npc_dota_hero_spectre",
     "Model": "models/heroes/spectre/spectre.vmdl",
     "SoundSet": "Hero_Spectre",
     "IdleSoundLoop": "Hero_Spectre.IdleLoop",
@@ -12175,7 +12241,8 @@
       }
     }
   },
-  "npc_dota_hero_doom_bringer": {
+  {
+	"Key": "npc_dota_hero_doom_bringer",
     "Model": "models/heroes/doom/doom.vmdl",
     "SoundSet": "Hero_DoomBringer",
     "IdleSoundLoop": "Hero_DoomBringer.IdleLoop",
@@ -12328,7 +12395,8 @@
       }
     }
   },
-  "npc_dota_hero_ancient_apparition": {
+  {
+	"Key": "npc_dota_hero_ancient_apparition",
     "Model": "models/heroes/ancient_apparition/ancient_apparition.vmdl",
     "SoundSet": "Hero_ancient_apparition",
     "IdleSoundLoop": "Hero_Ancient_Apparition.IdleLoop",
@@ -12460,7 +12528,8 @@
       }
     }
   },
-  "npc_dota_hero_ursa": {
+  {
+	"Key": "npc_dota_hero_ursa",
     "Model": "models/heroes/ursa/ursa.vmdl",
     "IdleExpression": "scenes/ursa/ursa_exp_idle_01.vcd",
     "SoundSet": "Hero_Ursa",
@@ -12594,7 +12663,8 @@
       }
     }
   },
-  "npc_dota_hero_spirit_breaker": {
+  {
+	"Key": "npc_dota_hero_spirit_breaker",
     "Model": "models/heroes/spirit_breaker/spirit_breaker.vmdl",
     "IdleExpression": "scenes/spirit_breaker/spirit_breaker_exp_idle_01.vcd",
     "SoundSet": "Hero_spirit_breaker",
@@ -12738,7 +12808,8 @@
       }
     }
   },
-  "npc_dota_hero_gyrocopter": {
+  {
+	"Key": "npc_dota_hero_gyrocopter",
     "Model": "models/heroes/gyro/gyro.vmdl",
     "SoundSet": "Hero_Gyrocopter",
     "IdleSoundLoop": "Hero_Gyrocopter.IdleLoop",
@@ -12897,7 +12968,8 @@
       }
     }
   },
-  "npc_dota_hero_alchemist": {
+  {
+	"Key": "npc_dota_hero_alchemist",
     "Model": "models/heroes/alchemist/alchemist.vmdl",
     "IdleExpression": "scenes/alchemist/alchemist_exp_idle_01.vcd",
     "SoundSet": "Hero_Alchemist",
@@ -13062,7 +13134,8 @@
       }
     }
   },
-  "npc_dota_hero_invoker": {
+  {
+	"Key": "npc_dota_hero_invoker",
     "Model": "models/heroes/invoker/invoker.vmdl",
     "IdleExpression": "scenes/invoker/invoker_exp_idle_01.vcd",
     "Persona": {
@@ -13311,7 +13384,8 @@
       }
     }
   },
-  "npc_dota_hero_silencer": {
+  {
+	"Key": "npc_dota_hero_silencer",
     "Model": "models/heroes/silencer/silencer.vmdl",
     "IdleExpression": "scenes/silencer/silencer_exp_idle_01.vcd",
     "SoundSet": "Hero_Silencer",
@@ -13449,7 +13523,8 @@
       }
     }
   },
-  "npc_dota_hero_obsidian_destroyer": {
+  {
+	"Key": "npc_dota_hero_obsidian_destroyer",
     "Model": "models/heroes/obsidian_destroyer/obsidian_destroyer.vmdl",
     "IdleExpression": "scenes/outworld_destroyer/outworld_destroyer_exp_idle_01.vcd",
     "SoundSet": "Hero_ObsidianDestroyer",
@@ -13585,7 +13660,8 @@
       }
     }
   },
-  "npc_dota_hero_lycan": {
+  {
+	"Key": "npc_dota_hero_lycan",
     "Model": "models/heroes/lycan/lycan.vmdl",
     "SoundSet": "Hero_Lycan",
     "Enabled": "1",
@@ -13751,7 +13827,8 @@
       }
     }
   },
-  "npc_dota_hero_brewmaster": {
+  {
+	"Key": "npc_dota_hero_brewmaster",
     "Model": "models/heroes/brewmaster/brewmaster.vmdl",
     "IdleExpression": "scenes/brewmaster/brewmaster_exp_idle_01.vcd",
     "SoundSet": "Hero_Brewmaster",
@@ -13889,7 +13966,8 @@
       }
     }
   },
-  "npc_dota_hero_shadow_demon": {
+  {
+	"Key": "npc_dota_hero_shadow_demon",
     "Model": "models/heroes/shadow_demon/shadow_demon.vmdl",
     "IdleExpression": "scenes/shadow_demon/shadow_demon_exp_idle_01.vcd",
     "SoundSet": "Hero_ShadowDemon",
@@ -14030,7 +14108,8 @@
       }
     }
   },
-  "npc_dota_hero_lone_druid": {
+  {
+	"Key": "npc_dota_hero_lone_druid",
     "Model": "models/heroes/lone_druid/lone_druid.vmdl",
     "IdleExpression": "scenes/lone_druid/lone_druid_exp_idle_01.vcd",
     "SoundSet": "Hero_LoneDruid",
@@ -14195,7 +14274,8 @@
       }
     }
   },
-  "npc_dota_hero_chaos_knight": {
+  {
+	"Key": "npc_dota_hero_chaos_knight",
     "Model": "models/heroes/chaos_knight/chaos_knight.vmdl",
     "SoundSet": "Hero_ChaosKnight",
     "Enabled": "1",
@@ -14390,7 +14470,8 @@
       }
     }
   },
-  "npc_dota_hero_meepo": {
+  {
+	"Key": "npc_dota_hero_meepo",
     "Model": "models/heroes/meepo/meepo.vmdl",
     "IdleExpression": "scenes/meepo/meepo_exp_idle_01.vcd",
     "SoundSet": "Hero_Meepo",
@@ -14538,7 +14619,8 @@
       }
     }
   },
-  "npc_dota_hero_treant": {
+  {
+	"Key": "npc_dota_hero_treant",
     "Model": "models/heroes/treant_protector/treant_protector.vmdl",
     "SoundSet": "Hero_Treant",
     "Enabled": "1",
@@ -14673,7 +14755,8 @@
       }
     }
   },
-  "npc_dota_hero_ogre_magi": {
+  {
+	"Key": "npc_dota_hero_ogre_magi",
     "Model": "models/heroes/ogre_magi/ogre_magi.vmdl",
     "IdleExpression": "scenes/ogre_magi/ogre_magi_exp_idle_01.vcd",
     "SoundSet": "Hero_OgreMagi",
@@ -14822,7 +14905,8 @@
       }
     }
   },
-  "npc_dota_hero_undying": {
+  {
+	"Key": "npc_dota_hero_undying",
     "Model": "models/heroes/undying/undying.vmdl",
     "IdleExpression": "scenes/undying/undying_exp_idle_01.vcd",
     "SoundSet": "Hero_Undying",
@@ -14971,7 +15055,8 @@
       }
     }
   },
-  "npc_dota_hero_rubick": {
+  {
+	"Key": "npc_dota_hero_rubick",
     "Model": "models/heroes/rubick/rubick.vmdl",
     "SoundSet": "Hero_Rubick",
     "Enabled": "1",
@@ -15118,7 +15203,8 @@
       }
     }
   },
-  "npc_dota_hero_disruptor": {
+  {
+	"Key": "npc_dota_hero_disruptor",
     "Model": "models/heroes/disruptor/disruptor.vmdl",
     "SoundSet": "Hero_Disruptor",
     "Enabled": "1",
@@ -15261,7 +15347,8 @@
       }
     }
   },
-  "npc_dota_hero_nyx_assassin": {
+  {
+	"Key": "npc_dota_hero_nyx_assassin",
     "Model": "models/heroes/nerubian_assassin/nerubian_assassin.vmdl",
     "IdleExpression": "scenes/nyx_assassin/nyx_assassin_exp_idle_01.vcd",
     "SoundSet": "Hero_NyxAssassin",
@@ -15391,7 +15478,8 @@
       }
     }
   },
-  "npc_dota_hero_naga_siren": {
+  {
+	"Key": "npc_dota_hero_naga_siren",
     "Model": "models/heroes/siren/siren.vmdl",
     "IdleExpression": "scenes/naga_siren/naga_siren_exp_idle_01.vcd",
     "SoundSet": "Hero_NagaSiren",
@@ -15534,7 +15622,8 @@
       }
     }
   },
-  "npc_dota_hero_keeper_of_the_light": {
+  {
+	"Key": "npc_dota_hero_keeper_of_the_light",
     "Model": "models/heroes/keeper_of_the_light/keeper_of_the_light.vmdl",
     "IdleExpression": "scenes/keeper_of_the_light/keeper_of_the_light_exp_idle_01.vcd",
     "SoundSet": "Hero_KeeperOfTheLight",
@@ -15671,7 +15760,8 @@
       }
     }
   },
-  "npc_dota_hero_wisp": {
+  {
+	"Key": "npc_dota_hero_wisp",
     "Model": "models/heroes/wisp/wisp.vmdl",
     "SoundSet": "Hero_Wisp",
     "IdleSoundLoop": "Hero_Wisp.IdleLoop",
@@ -15773,7 +15863,8 @@
       }
     }
   },
-  "npc_dota_hero_visage": {
+  {
+	"Key": "npc_dota_hero_visage",
     "Model": "models/heroes/visage/visage.vmdl",
     "IdleExpression": "scenes/visage/visage_exp_idle_01.vcd",
     "SoundSet": "Hero_Visage",
@@ -15902,7 +15993,8 @@
       }
     }
   },
-  "npc_dota_hero_slark": {
+  {
+	"Key": "npc_dota_hero_slark",
     "Model": "models/heroes/slark/slark.vmdl",
     "SoundSet": "Hero_Slark",
     "IdleExpression": "scenes/slark/slark_exp_idle_01.vcd",
@@ -16051,7 +16143,8 @@
       }
     }
   },
-  "npc_dota_hero_medusa": {
+  {
+	"Key": "npc_dota_hero_medusa",
     "Model": "models/heroes/medusa/medusa.vmdl",
     "SoundSet": "Hero_Medusa",
     "IdleExpression": "scenes/medusa/medusa_exp_idle_01.vcd",
@@ -16191,7 +16284,8 @@
       }
     }
   },
-  "npc_dota_hero_troll_warlord": {
+  {
+	"Key": "npc_dota_hero_troll_warlord",
     "Model": "models/heroes/troll_warlord/troll_warlord.vmdl",
     "SoundSet": "Hero_TrollWarlord",
     "IdleExpression": "scenes/troll_warlord/troll_warlord_exp_idle_01.vcd",
@@ -16332,7 +16426,8 @@
       }
     }
   },
-  "npc_dota_hero_centaur": {
+  {
+	"Key": "npc_dota_hero_centaur",
     "Model": "models/heroes/centaur/centaur.vmdl",
     "SoundSet": "Hero_Centaur",
     "IdleExpression": "scenes/centaur/centaur_exp_idle_01.vcd",
@@ -16497,7 +16592,8 @@
       }
     }
   },
-  "npc_dota_hero_magnataur": {
+  {
+	"Key": "npc_dota_hero_magnataur",
     "Model": "models/heroes/magnataur/magnataur.vmdl",
     "SoundSet": "Hero_Magnataur",
     "HeroID": "97",
@@ -16633,7 +16729,8 @@
       }
     }
   },
-  "npc_dota_hero_shredder": {
+  {
+	"Key": "npc_dota_hero_shredder",
     "Model": "models/heroes/shredder/shredder.vmdl",
     "IdleExpression": "scenes/shredder/shredder_exp_idle_01.vcd",
     "SoundSet": "Hero_Shredder",
@@ -16789,7 +16886,8 @@
       }
     }
   },
-  "npc_dota_hero_bristleback": {
+  {
+	"Key": "npc_dota_hero_bristleback",
     "Model": "models/heroes/bristleback/bristleback.vmdl",
     "SoundSet": "Hero_Bristleback",
     "IdleSoundLoop": "Hero_Bristleback.IdleLoop",
@@ -17002,7 +17100,8 @@
       }
     }
   },
-  "npc_dota_hero_tusk": {
+  {
+	"Key": "npc_dota_hero_tusk",
     "Model": "models/heroes/tuskarr/tuskarr.vmdl",
     "IdleExpression": "scenes/tusk/tusk_exp_idle_01.vcd",
     "SoundSet": "Hero_Tusk",
@@ -17165,7 +17264,8 @@
       }
     }
   },
-  "npc_dota_hero_skywrath_mage": {
+  {
+	"Key": "npc_dota_hero_skywrath_mage",
     "Model": "models/heroes/skywrath_mage/skywrath_mage.vmdl",
     "IdleExpression": "scenes/skywrath_mage/skywrath_mage_exp_idle_01.vcd",
     "NameAliases": "dragonus",
@@ -17383,7 +17483,8 @@
       }
     }
   },
-  "npc_dota_hero_abaddon": {
+  {
+	"Key": "npc_dota_hero_abaddon",
     "Model": "models/heroes/abaddon/abaddon.vmdl",
     "SoundSet": "Hero_Abaddon",
     "Enabled": "1",
@@ -17521,7 +17622,8 @@
       }
     }
   },
-  "npc_dota_hero_elder_titan": {
+  {
+	"Key": "npc_dota_hero_elder_titan",
     "Model": "models/heroes/elder_titan/elder_titan.vmdl",
     "IdleExpression": "scenes/elder_titan/elder_titan_exp_idle_01.vcd",
     "SoundSet": "Hero_ElderTitan",
@@ -17663,7 +17765,8 @@
       }
     }
   },
-  "npc_dota_hero_legion_commander": {
+  {
+	"Key": "npc_dota_hero_legion_commander",
     "Model": "models/heroes/legion_commander/legion_commander.vmdl",
     "IdleExpression": "scenes/legion_commander/legion_commander_exp_idle_01.vcd",
     "SoundSet": "Hero_LegionCommander",
@@ -17811,7 +17914,8 @@
       }
     }
   },
-  "npc_dota_hero_ember_spirit": {
+  {
+	"Key": "npc_dota_hero_ember_spirit",
     "Model": "models/heroes/ember_spirit/ember_spirit.vmdl",
     "SoundSet": "Hero_EmberSpirit",
     "IdleSoundLoop": "Hero_EmberSpirit.IdleLoop",
@@ -17965,7 +18069,8 @@
       }
     }
   },
-  "npc_dota_hero_earth_spirit": {
+  {
+	"Key": "npc_dota_hero_earth_spirit",
     "Model": "models/heroes/earth_spirit/earth_spirit.vmdl",
     "IdleExpression": "scenes/earth_spirit/earth_spirit_exp_idle_01.vcd",
     "SoundSet": "Hero_EarthSpirit",
@@ -18124,7 +18229,8 @@
       }
     }
   },
-  "npc_dota_hero_terrorblade": {
+  {
+	"Key": "npc_dota_hero_terrorblade",
     "Model": "models/heroes/terrorblade/terrorblade.vmdl",
     "SoundSet": "Hero_Terrorblade",
     "HeroID": "109",
@@ -18271,7 +18377,8 @@
       }
     }
   },
-  "npc_dota_hero_phoenix": {
+  {
+	"Key": "npc_dota_hero_phoenix",
     "Model": "models/heroes/phoenix/phoenix_bird.vmdl",
     "SoundSet": "Hero_Phoenix",
     "IdleSoundLoop": "Hero_Phoenix.IdleLoop",
@@ -18403,7 +18510,8 @@
       }
     }
   },
-  "npc_dota_hero_oracle": {
+  {
+	"Key": "npc_dota_hero_oracle",
     "Model": "models/heroes/oracle/oracle.vmdl",
     "SoundSet": "Hero_Oracle",
     "IdleSoundLoop": "Hero_Oracle.IdleLoop",
@@ -18597,7 +18705,8 @@
       }
     }
   },
-  "npc_dota_hero_techies": {
+  {
+	"Key": "npc_dota_hero_techies",
     "Model": "models/heroes/techies/techies.vmdl",
     "IdleExpression": "scenes/techies/techies_exp_idle_01.vcd",
     "ModelScale": "0.600000",
@@ -18776,7 +18885,8 @@
       }
     }
   },
-  "npc_dota_hero_target_dummy": {
+  {
+	"Key": "npc_dota_hero_target_dummy",
     "Model": "models/props_gameplay/dummy/dummy.vmdl",
     "ModelScale": "2.500000",
     "LoadoutScale": "1.000000",
@@ -18832,7 +18942,8 @@
     "VisionDaytimeRange": "1",
     "VisionNighttimeRange": "1"
   },
-  "npc_dota_hero_winter_wyvern": {
+  {
+	"Key": "npc_dota_hero_winter_wyvern",
     "Model": "models/heroes/winterwyvern/winterwyvern.vmdl",
     "IdleExpression": "scenes/winter_wyvern/winter_wyvern_exp_idle_01.vcd",
     "ModelScale": "1.000000",
@@ -18965,7 +19076,8 @@
       }
     }
   },
-  "npc_dota_hero_arc_warden": {
+  {
+	"Key": "npc_dota_hero_arc_warden",
     "Model": "models/heroes/arc_warden/arc_warden.vmdl",
     "SoundSet": "Hero_ArcWarden",
     "HeroID": "113",
@@ -19106,7 +19218,8 @@
       }
     }
   },
-  "npc_dota_hero_abyssal_underlord": {
+  {
+	"Key": "npc_dota_hero_abyssal_underlord",
     "Model": "models/heroes/abyssal_underlord/abyssal_underlord_v2.vmdl",
     "IdleExpression": "scenes/abyssal_underlord/abyssal_underlord_exp_idle_01.vcd",
     "SoundSet": "Hero_AbyssalUnderlord",
@@ -19234,7 +19347,8 @@
       }
     }
   },
-  "npc_dota_hero_monkey_king": {
+  {
+	"Key": "npc_dota_hero_monkey_king",
     "Model": "models/heroes/monkey_king/monkey_king.vmdl",
     "IdleExpression": "scenes/monkey_king/monkey_king_exp_idle_01.vcd",
     "SoundSet": "Hero_MonkeyKing",
@@ -19373,7 +19487,8 @@
       }
     }
   },
-  "npc_dota_hero_pangolier": {
+  {
+	"Key": "npc_dota_hero_pangolier",
     "Model": "models/heroes/pangolier/pangolier.vmdl",
     "IdleExpression": "scenes/pangolin/pangolin_exp_idle_01.vcd",
     "SoundSet": "Hero_Pangolier",
@@ -19514,7 +19629,8 @@
       }
     }
   },
-  "npc_dota_hero_dark_willow": {
+  {
+	"Key": "npc_dota_hero_dark_willow",
     "Model": "models/heroes/dark_willow/dark_willow.vmdl",
     "IdleExpression": "scenes/sylph/sylph_exp_idle_01.vcd",
     "SoundSet": "Hero_DarkWillow",
@@ -19670,7 +19786,8 @@
       }
     }
   },
-  "npc_dota_hero_grimstroke": {
+  {
+	"Key": "npc_dota_hero_grimstroke",
     "Model": "models/heroes/grimstroke/grimstroke.vmdl",
     "IdleExpression": "scenes/grimstroke/grimstroke_exp_idle_01.vcd",
     "SoundSet": "Hero_Grimstroke",
@@ -19814,7 +19931,8 @@
       }
     }
   },
-  "npc_dota_hero_mars": {
+  {
+	"Key": "npc_dota_hero_mars",
     "Model": "models/heroes/mars/mars.vmdl",
     "IdleExpression": "scenes/mars/mars_exp_idle_01.vcd",
     "SoundSet": "Hero_Mars",
@@ -19952,7 +20070,8 @@
       }
     }
   },
-  "npc_dota_hero_void_spirit": {
+  {
+	"Key": "npc_dota_hero_void_spirit",
     "Model": "models/heroes/void_spirit/void_spirit.vmdl",
     "IdleExpression": "scenes/void_spirit/void_spirit_exp_idle_01.vcd",
     "SoundSet": "Hero_VoidSpirit",
@@ -20095,7 +20214,8 @@
       }
     }
   },
-  "npc_dota_hero_snapfire": {
+  {
+	"Key": "npc_dota_hero_snapfire",
     "Model": "models/heroes/snapfire/snapfire.vmdl",
     "IdleExpression": "scenes/snapfire/snapfire_portrait_idle.vcd",
     "SoundSet": "Hero_Snapfire",
@@ -20243,7 +20363,8 @@
       }
     }
   },
-  "npc_dota_hero_hoodwink": {
+  {
+	"Key": "npc_dota_hero_hoodwink",
     "Model": "models/heroes/hoodwink/hoodwink.vmdl",
     "IdleExpression": "scenes/hoodwink/hoodwink_portrait.vcd",
     "SoundSet": "Hero_Hoodwink",
@@ -20375,4 +20496,4 @@
       }
     }
   }
-}
+]
